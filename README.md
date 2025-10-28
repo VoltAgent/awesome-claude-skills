@@ -71,7 +71,7 @@ See the [official repo](https://github.com/anthropics/skills) and [creation guid
 
 ### Document Creation
 
-| Skill |                                                                                                                                  | Description                                        |
+|  |                                                                                                                                  |                                         |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
 | **docx** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/anthropics/skills/tree/main/docx) | Create, edit, and analyze Word documents           |
 | **pptx** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/anthropics/skills/tree/main/pptx) | Create, edit, and analyze PowerPoint presentations |
@@ -80,7 +80,7 @@ See the [official repo](https://github.com/anthropics/skills) and [creation guid
 
 ### Creative and Design
 
-| Skill |                                                                                                                                               | Description                                                        |
+|  |                                                                                                                                               |                                                         |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | **algorithmic-art** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/anthropics/skills/tree/main/algorithmic-art)   | Create generative art using p5.js with seeded randomness           |
 | **canvas-design** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/anthropics/skills/tree/main/canvas-design)     | Design visual art in PNG and PDF formats                           |
@@ -89,7 +89,7 @@ See the [official repo](https://github.com/anthropics/skills) and [creation guid
 
 ### Development
 
-| Skill |                                                                                                                                               | Description                                                    |
+|  |                                                                                                                                               |                                                     |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
 | **artifacts-builder** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/anthropics/skills/tree/main/artifacts-builder) | Build complex claude.ai HTML artifacts with React and Tailwind |
 | **mcp-builder** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/anthropics/skills/tree/main/mcp-builder)       | Create MCP servers to integrate external APIs and services     |
@@ -97,14 +97,14 @@ See the [official repo](https://github.com/anthropics/skills) and [creation guid
 
 ### Branding and Communication
 
-| Skill |                                                                                                                                              | Description                                                |
+|  |                                                                                                                                              |                                                 |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | **brand-guidelines** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/anthropics/skills/tree/main/brand-guidelines) | Apply Anthropic's brand colors and typography to artifacts |
 | **internal-comms** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/anthropics/skills/tree/main/internal-comms)   | Write status reports, newsletters, and FAQs                |
 
 ### Meta
 
-| Skill |                                                                                                                                            | Description                                                 |
+|  |                                                                                                                                            |                                                  |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------- |
 | **skill-creator** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/anthropics/skills/tree/main/skill-creator)  | Guide for creating skills that extend Claude's capabilities |
 | **template-skill** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/anthropics/skills/tree/main/template-skill) | Basic template for creating new skills                      |
@@ -113,7 +113,7 @@ See the [official repo](https://github.com/anthropics/skills) and [creation guid
 
 ### Productivity and Collaboration
 
-| Skill |                                                                                                                                                                       | Description                                            |
+|  |                                                                                                                                                                       |                                             |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
 | **Notion Skills for Claude** | -                                                                                                                                                                     | Skills for working with Notion                         |
 | **superpowers-lab** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/obra/superpowers-lab)                                                  | Lab environment for Claude superpowers                 |
@@ -137,7 +137,7 @@ See the [official repo](https://github.com/anthropics/skills) and [creation guid
 
 ### Development and Testing
 
-| Skill |                                                                                                                                                                    | Description                                               |
+|  |                                                                                                                                                                    |                                                |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------- |
 | **ios-simulator-skill** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/conorluddy/ios-simulator-skill)                                     | Control iOS Simulator (also by ComposioHQ)                |
 | **ffuf-claude-skill** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/jthack/ffuf_claude_skill)                                           | Web fuzzing with ffuf (also by ComposioHQ)                |
@@ -165,7 +165,7 @@ See the [official repo](https://github.com/anthropics/skills) and [creation guid
 
 ### Specialized Domains
 
-| Skill |                                                                                                                                             | Description                             |
+|  |                                                                                                                                             |                              |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
 | **claude-scientific-skills** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/K-Dense-AI/claude-scientific-skills)         | Scientific research and analysis skills |
 | **claude-win11-speckit-update-skill** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/NotMyself/claude-win11-speckit-update-skill) | Windows 11 system management            |
@@ -176,7 +176,7 @@ See the [official repo](https://github.com/anthropics/skills) and [creation guid
 
 ### 📚 Official
 
-| Article | | Description |
+| Article | |  |
 |---------|---|-------------|
 | **Claude Skills Quickstart** | [![Docs](https://img.shields.io/badge/docs-blue?logo=readthedocs&logoColor=white)](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/quickstart) | Get started with Claude Skills |
 | **Claude Skills Best Practices** | [![Docs](https://img.shields.io/badge/docs-blue?logo=readthedocs&logoColor=white)](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/best-practices) | Best practices for creating skills |
@@ -191,7 +191,7 @@ See the [official repo](https://github.com/anthropics/skills) and [creation guid
 
 ### 👥 Community
 
-| Article | | Description |
+| Article | |  |
 |---------|---|-------------|
 | [**Simon Willison: Claude Skills**](https://simonwillison.net/2025/Oct/16/claude-skills/) | [![Blog](https://img.shields.io/badge/blog-blue?logo=rss&logoColor=white)](https://simonwillison.net/2025/Oct/16/claude-skills/) | Introduction to Claude Skills |
 | [**Nick Nisi: Claude Skills**](https://nicknisi.com/posts/claude-skills/) | [![Blog](https://img.shields.io/badge/blog-blue?logo=rss&logoColor=white)](https://nicknisi.com/posts/claude-skills/) | Getting started with Claude Skills |
