@@ -6,7 +6,7 @@
 <br/>
 
 <div align="center">
-    <strong>The awesome collection of Claude Skills with official and community-built skills, resources.
+    <strong>The awesome collection of Claude Skills with official and community-built resources.
     </strong>
     <br />
     <br />
