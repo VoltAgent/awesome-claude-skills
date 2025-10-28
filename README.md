@@ -6,7 +6,8 @@
 <br/>
 
 <div align="center">
-    <strong>A collection of Claude Skills, articles, tutorials, and videos from Anthropic and the community.</strong>
+    <strong>The awesome collection of Claude Skills with official and community-built skills, resources.
+    </strong>
     <br />
     <br />
 </div>
