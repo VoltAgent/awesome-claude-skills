@@ -1,8 +1,8 @@
 <a href="https://github.com/VoltAgent/voltagent">
-<img  alt="Group 32" src="" />
+<img width="1500" height="500" alt="claude-skills" src="https://github.com/user-attachments/assets/39c54dfd-129e-4b43-8b92-20824a56e069" />
 </a>
 
-<br />
+<br/>
 <br/>
 
 <div align="center">
