@@ -21,17 +21,23 @@
 <br/>
 
 
+
 # Awesome Claude Skills
 
 Claude Skills are folders with instructions, scripts, and resources that teach Claude specific tasks. Skills can include executable code and are loaded only when needed, allowing you to maintain hundreds without performance impact. Multiple skills can run together for complex tasks like document creation, code testing, and data analysis.
 
-### Creating a Skill
+### ⚡️ Maintained by the [VoltAgent](https://github.com/voltagent/voltagent) open-source AI agent framework community.
 
-```markdown
+<a href="https://github.com/VoltAgent/voltagent">
+<img width="1800" alt="435380213-b6253409-8741-462b-a346-834cd18565a9" src="https://github.com/user-attachments/assets/452a03e7-eeda-4394-9ee7-0ffbcf37245c" />
+</a>
+
+### What a Basic Skill Looks Like?
+
+```YAML
 ---
 name: api-tester
-desci: Test REST APIs and validate responses
-version: 1.0.0
+description: Test REST APIs and validate responses
 ---
 
 # API Tester
@@ -61,18 +67,16 @@ When testing an API:
 See the [official repo](https://github.com/anthropics/skills) and [creation guide](https://support.claude.com/en/articles/12512198-how-to-create-custom-skills) for more details.
 
 
-Use it to find skills or as inspiration for creating your own.
-
 ## Official Claude Skills
 
 ### Document Creation
 
-| Skill |                                                                                                                                                          | Description                                        |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| **docx** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/anthropics/skills/tree/main/document-skills/docx) | Create, edit, and analyze Word documents           |
-| **pptx** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/anthropics/skills/tree/main/document-skills/pptx) | Create, edit, and analyze PowerPoint presentations |
-| **xlsx** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/anthropics/skills/tree/main/document-skills/xlsx) | Create, edit, and analyze Excel spreadsheets       |
-| **pdf** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/anthropics/skills/tree/main/document-skills/pdf)  | Extract text, create PDFs, and handle forms        |
+| Skill |                                                                                                                                  | Description                                        |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| **docx** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/anthropics/skills/tree/main/docx) | Create, edit, and analyze Word documents           |
+| **pptx** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/anthropics/skills/tree/main/pptx) | Create, edit, and analyze PowerPoint presentations |
+| **xlsx** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/anthropics/skills/tree/main/xlsx) | Create, edit, and analyze Excel spreadsheets       |
+| **pdf** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/anthropics/skills/tree/main/pdf)  | Extract text, create PDFs, and handle forms        |
 
 ### Creative and Design
 
