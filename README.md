@@ -201,7 +201,7 @@ See the [official repo](https://github.com/anthropics/skills) and [creation guid
 
 ## 🤝 Contributing
 
-We welcome contributions! See CONTRIBUTING.md for guidelines.
+We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 - Submit new skills via PR
 - Improve existing definitions
