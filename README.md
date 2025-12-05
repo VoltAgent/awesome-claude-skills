@@ -154,6 +154,7 @@ See the [official repo](https://github.com/anthropics/skills) and [creation guid
 | **obra/condition-based-waiting** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/obra/superpowers/blob/main/skills/condition-based-waiting/SKILL.md)                                                   | Manage conditional pauses or delays                       |
 | **obra/commands** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/obra/superpowers/tree/main/skills/commands)                                                   | Create and manage command structures                      |
 | **obra/writing-skills** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/obra/superpowers/blob/main/skills/writing-skills/SKILL.md)                                                   | Develop and document capabilities                         |
+| **omkamal/pypict-skill** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/omkamal/pypict-claude-skill/blob/main/SKILL.md)                                                   | Pairwise test generation                         |
 
 ### Specialized Domains
 
