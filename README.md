@@ -164,6 +164,7 @@ See the [official repo](https://github.com/anthropics/skills) and [creation guid
 | **NotMyself/claude-win11-speckit-update-skill** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/NotMyself/claude-win11-speckit-update-skill) | Windows 11 system management            |
 | **jeffersonwarrior/claudisms** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/jeffersonwarrior/claudisms)                  | SMS messaging integration               |
 | **obra/defense-in-depth** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/obra/superpowers/blob/main/skills/defense-in-depth/SKILL.md)                            | Multi-layered security approaches       |
+| **haunchen/n8n-skill** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/haunchen/n8n-skill) | Enables AI assistants to understand and operate n8n workflows with information on 542 nodes and 20 templates. |
 
 ## Articles and Tutorials
 
