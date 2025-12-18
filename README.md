@@ -10,16 +10,16 @@
     </strong>
     <br />
     <br />
-    
+
 </div>
 
 <div align="center">
-    
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-claude-skills?label=Last%20update&style=flat-square)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 [![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-claude-skills?style=social)](https://github.com/VoltAgent/awesome-claude-skills/network/members)
-    
+
 </div>
 
 # Awesome Claude Skills
@@ -68,135 +68,113 @@ See the [official repo](https://github.com/anthropics/skills) and [creation guid
 
 ### Document Creation
 
-|                     |                                                                                                                                         |                                                    |
-| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| **anthropics/docx** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/anthropics/skills/tree/main/skills/docx) | Create, edit, and analyze Word documents           |
-| **anthropics/pptx** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/anthropics/skills/tree/main/skills/pptx) | Create, edit, and analyze PowerPoint presentations |
-| **anthropics/xlsx** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/anthropics/skills/tree/main/skills/xlsx) | Create, edit, and analyze Excel spreadsheets       |
-| **anthropics/pdf**  | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/anthropics/skills/tree/main/skills/pdf)  | Extract text, create PDFs, and handle forms        |
+- **[anthropics/docx](https://github.com/anthropics/skills/tree/main/skills/docx)** - Create, edit, and analyze Word documents
+- **[anthropics/pptx](https://github.com/anthropics/skills/tree/main/skills/pptx)** - Create, edit, and analyze PowerPoint presentations
+- **[anthropics/xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx)** - Create, edit, and analyze Excel spreadsheets
+- **[anthropics/pdf](https://github.com/anthropics/skills/tree/main/skills/pdf)** - Extract text, create PDFs, and handle forms
 
 ### Creative and Design
 
-|                                  |                                                                                                                                                      |                                                                    |
-| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| **anthropics/algorithmic-art**   | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/anthropics/skills/tree/main/skills/algorithmic-art)   | Create generative art using p5.js with seeded randomness           |
-| **anthropics/canvas-design**     | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/anthropics/skills/tree/main/skills/canvas-design)     | Design visual art in PNG and PDF formats                           |
-| **anthropics/slack-gif-creator** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator) | Create animated GIFs optimized for Slack size constraints          |
-| **anthropics/theme-factory**     | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/anthropics/skills/tree/main/skills/theme-factory)     | Style artifacts with professional themes or generate custom themes |
+- **[anthropics/algorithmic-art](https://github.com/anthropics/skills/tree/main/skills/algorithmic-art)** - Create generative art using p5.js with seeded randomness
+- **[anthropics/canvas-design](https://github.com/anthropics/skills/tree/main/skills/canvas-design)** - Design visual art in PNG and PDF formats
+- **[anthropics/slack-gif-creator](https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator)** - Create animated GIFs optimized for Slack size constraints
+- **[anthropics/theme-factory](https://github.com/anthropics/skills/tree/main/skills/theme-factory)** - Style artifacts with professional themes or generate custom themes
 
 ### Development
 
-|                                      |                                                                                                                                                          |                                                                |
-| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| **anthropics/web-artifacts-builder** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder) | Build complex claude.ai HTML artifacts with React and Tailwind |
-| **anthropics/mcp-builder**           | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/anthropics/skills/tree/main/skills/mcp-builder)           | Create MCP servers to integrate external APIs and services     |
-| **anthropics/webapp-testing**        | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/anthropics/skills/tree/main/skills/webapp-testing)        | Test local web applications using Playwright                   |
+- **[anthropics/web-artifacts-builder](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder)** - Build complex claude.ai HTML artifacts with React and Tailwind
+- **[anthropics/mcp-builder](https://github.com/anthropics/skills/tree/main/skills/mcp-builder)** - Create MCP servers to integrate external APIs and services
+- **[anthropics/webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing)** - Test local web applications using Playwright
 
 ### Branding and Communication
 
-|                                 |                                                                                                                                                     |                                                            |
-| ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| **anthropics/brand-guidelines** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/anthropics/skills/tree/main/skills/brand-guidelines) | Apply Anthropic's brand colors and typography to artifacts |
-| **anthropics/internal-comms**   | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/anthropics/skills/tree/main/skills/internal-comms)   | Write status reports, newsletters, and FAQs                |
+- **[anthropics/brand-guidelines](https://github.com/anthropics/skills/tree/main/skills/brand-guidelines)** - Apply Anthropic's brand colors and typography to artifacts
+- **[anthropics/internal-comms](https://github.com/anthropics/skills/tree/main/skills/internal-comms)** - Write status reports, newsletters, and FAQs
 
 ### Meta
 
-|                              |                                                                                                                                                  |                                                             |
-| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------- |
-| **anthropics/skill-creator** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/anthropics/skills/tree/main/skills/skill-creator) | Guide for creating skills that extend Claude's capabilities |
-| **anthropics/template**      | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/anthropics/skills/tree/main/template)             | Basic template for creating new skills                      |
+- **[anthropics/skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator)** - Guide for creating skills that extend Claude's capabilities
+- **[anthropics/template](https://github.com/anthropics/skills/tree/main/template)** - Basic template for creating new skills
 
 ## Community Skills
 
 ### Productivity and Collaboration
 
-|                                          |                                                                                                                                                                                 |                                                           |
-| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| **notiondevs/Notion Skills for Claude**  | [![Article](https://img.shields.io/badge/article-blue?logo=medium&logoColor=white)](https://www.notion.so/notiondevs/Notion-Skills-for-Claude-28da4445d27180c7af1df7d8615723d0) | Skills for working with Notion                            |
-| **PleasePrompto/notebooklm-skill**       | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/PleasePrompto/notebooklm-skill)                                                  | Interact with NotebookLM for document-based conversations |
-| **obra/superpowers-lab**                 | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/obra/superpowers-lab)                                                            | Lab environment for Claude superpowers                    |
-| **obra/brainstorming**                   | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/obra/superpowers/blob/main/skills/brainstorming/SKILL.md)                        | Generate and explore ideas                                |
-| **obra/writing-plans**                   | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/obra/superpowers/blob/main/skills/writing-plans/SKILL.md)                        | Create strategic documentation                            |
-| **obra/executing-plans**                 | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/obra/superpowers/blob/main/skills/executing-plans/SKILL.md)                      | Implement and run strategic plans                         |
-| **obra/dispatching-parallel-agents**     | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/obra/superpowers/blob/main/skills/dispatching-parallel-agents/SKILL.md)          | Coordinate multiple simultaneous agents                   |
-| **obra/sharing-skills**                  | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/obra/superpowers/blob/main/skills/sharing-skills/SKILL.md)                       | Distribute and communicate capabilities                   |
-| **obra/using-superpowers**               | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/obra/superpowers/blob/main/skills/using-superpowers/SKILL.md)                    | Leverage core platform capabilities                       |
-| **ComposioHQ/content-research-writer**   | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer)            | Enhance writing with research                             |
-| **ComposioHQ/meeting-insights-analyzer** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/meeting-insights-analyzer)          | Analyze meeting communication patterns                    |
-| **ComposioHQ/competitive-ads-extractor** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/competitive-ads-extractor)          | Analyze competitor advertising                            |
-| **ComposioHQ/image-enhancer**            | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/image-enhancer)                     | Improve image quality                                     |
+- **[notiondevs/Notion Skills for Claude](https://www.notion.so/notiondevs/Notion-Skills-for-Claude-28da4445d27180c7af1df7d8615723d0)** - Skills for working with Notion
+- **[PleasePrompto/notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill)** - Interact with NotebookLM for document-based conversations
+- **[obra/superpowers-lab](https://github.com/obra/superpowers-lab)** - Lab environment for Claude superpowers
+- **[obra/brainstorming](https://github.com/obra/superpowers/blob/main/skills/brainstorming/SKILL.md)** - Generate and explore ideas
+- **[obra/writing-plans](https://github.com/obra/superpowers/blob/main/skills/writing-plans/SKILL.md)** - Create strategic documentation
+- **[obra/executing-plans](https://github.com/obra/superpowers/blob/main/skills/executing-plans/SKILL.md)** - Implement and run strategic plans
+- **[obra/dispatching-parallel-agents](https://github.com/obra/superpowers/blob/main/skills/dispatching-parallel-agents/SKILL.md)** - Coordinate multiple simultaneous agents
+- **[obra/sharing-skills](https://github.com/obra/superpowers/blob/main/skills/sharing-skills/SKILL.md)** - Distribute and communicate capabilities
+- **[obra/using-superpowers](https://github.com/obra/superpowers/blob/main/skills/using-superpowers/SKILL.md)** - Leverage core platform capabilities
+- **[ComposioHQ/content-research-writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer)** - Enhance writing with research
+- **[ComposioHQ/meeting-insights-analyzer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/meeting-insights-analyzer)** - Analyze meeting communication patterns
+- **[ComposioHQ/competitive-ads-extractor](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/competitive-ads-extractor)** - Analyze competitor advertising
+- **[ComposioHQ/image-enhancer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/image-enhancer)** - Improve image quality
 
 ### Development and Testing
 
-|                                         |                                                                                                                                                                           |                                                                                |
-| --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| **zxkane/aws-skills**                   | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/zxkane/aws-skills)                                                         | AWS development with infrastructure automation and cloud architecture patterns |
-| **conorluddy/ios-simulator-skill**      | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/conorluddy/ios-simulator-skill)                                            | Control iOS Simulator                                                          |
-| **jthack/ffuf-claude-skill**            | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/jthack/ffuf_claude_skill)                                                  | Web fuzzing with ffuf                                                          |
-| **lackeyjb/playwright-skill**           | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/lackeyjb/playwright-skill)                                                 | Browser automation with Playwright                                             |
-| **obra/test-driven-development**        | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/obra/superpowers/blob/main/skills/test-driven-development/SKILL.md)        | Write tests before implementing code                                           |
-| **ComposioHQ/changelog-generator**      | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/changelog-generator)          | Transform git commits into release notes                                       |
-| **obra/subagent-driven-development**    | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/obra/superpowers/blob/main/skills/subagent-driven-development/SKILL.md)    | Development using multiple sub-agents                                          |
-| **obra/systematic-debugging**           | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/obra/superpowers/blob/main/skills/systematic-debugging/SKILL.md)           | Methodical problem-solving in code                                             |
-| **obra/root-cause-tracing**             | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/obra/superpowers/blob/main/skills/root-cause-tracing/SKILL.md)             | Investigate and identify fundamental problems                                  |
-| **obra/testing-skills-with-subagents**  | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/obra/superpowers/blob/main/skills/testing-skills-with-subagents/SKILL.md)  | Collaborative testing approaches                                               |
-| **obra/testing-anti-patterns**          | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/obra/superpowers/blob/main/skills/testing-anti-patterns/SKILL.md)          | Identify ineffective testing practices                                         |
-| **obra/finishing-a-development-branch** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/obra/superpowers/blob/main/skills/finishing-a-development-branch/SKILL.md) | Complete Git code branches                                                     |
-| **obra/requesting-code-review**         | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/obra/superpowers/blob/main/skills/requesting-code-review/SKILL.md)         | Initiate code review processes                                                 |
-| **obra/receiving-code-review**          | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/obra/superpowers/blob/main/skills/receiving-code-review/SKILL.md)          | Process and incorporate code feedback                                          |
-| **obra/using-git-worktrees**            | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/SKILL.md)            | Manage multiple Git working trees                                              |
-| **obra/verification-before-completion** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/obra/superpowers/blob/main/skills/verification-before-completion/SKILL.md) | Validate work before finalizing                                                |
-| **obra/condition-based-waiting**        | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/obra/superpowers/blob/main/skills/condition-based-waiting/SKILL.md)        | Manage conditional pauses or delays                                            |
-| **obra/commands**                       | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/obra/superpowers/tree/main/skills/commands)                                | Create and manage command structures                                           |
-| **obra/writing-skills**                 | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/obra/superpowers/blob/main/skills/writing-skills/SKILL.md)                 | Develop and document capabilities                                              |
-| **omkamal/pypict-skill**                | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/omkamal/pypict-claude-skill/blob/main/SKILL.md)                            | Pairwise test generation                                                       |
+- **[zxkane/aws-skills](https://github.com/zxkane/aws-skills)** - AWS development with infrastructure automation and cloud architecture patterns
+- **[conorluddy/ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill)** - Control iOS Simulator
+- **[jthack/ffuf-claude-skill](https://github.com/jthack/ffuf_claude_skill)** - Web fuzzing with ffuf
+- **[lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill)** - Browser automation with Playwright
+- **[obra/test-driven-development](https://github.com/obra/superpowers/blob/main/skills/test-driven-development/SKILL.md)** - Write tests before implementing code
+- **[ComposioHQ/changelog-generator](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/changelog-generator)** - Transform git commits into release notes
+- **[obra/subagent-driven-development](https://github.com/obra/superpowers/blob/main/skills/subagent-driven-development/SKILL.md)** - Development using multiple sub-agents
+- **[obra/systematic-debugging](https://github.com/obra/superpowers/blob/main/skills/systematic-debugging/SKILL.md)** - Methodical problem-solving in code
+- **[obra/root-cause-tracing](https://github.com/obra/superpowers/blob/main/skills/root-cause-tracing/SKILL.md)** - Investigate and identify fundamental problems
+- **[obra/testing-skills-with-subagents](https://github.com/obra/superpowers/blob/main/skills/testing-skills-with-subagents/SKILL.md)** - Collaborative testing approaches
+- **[obra/testing-anti-patterns](https://github.com/obra/superpowers/blob/main/skills/testing-anti-patterns/SKILL.md)** - Identify ineffective testing practices
+- **[obra/finishing-a-development-branch](https://github.com/obra/superpowers/blob/main/skills/finishing-a-development-branch/SKILL.md)** - Complete Git code branches
+- **[obra/requesting-code-review](https://github.com/obra/superpowers/blob/main/skills/requesting-code-review/SKILL.md)** - Initiate code review processes
+- **[obra/receiving-code-review](https://github.com/obra/superpowers/blob/main/skills/receiving-code-review/SKILL.md)** - Process and incorporate code feedback
+- **[obra/using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/SKILL.md)** - Manage multiple Git working trees
+- **[obra/verification-before-completion](https://github.com/obra/superpowers/blob/main/skills/verification-before-completion/SKILL.md)** - Validate work before finalizing
+- **[obra/condition-based-waiting](https://github.com/obra/superpowers/blob/main/skills/condition-based-waiting/SKILL.md)** - Manage conditional pauses or delays
+- **[obra/commands](https://github.com/obra/superpowers/tree/main/skills/commands)** - Create and manage command structures
+- **[obra/writing-skills](https://github.com/obra/superpowers/blob/main/skills/writing-skills/SKILL.md)** - Develop and document capabilities
+- **[omkamal/pypict-skill](https://github.com/omkamal/pypict-claude-skill/blob/main/SKILL.md)** - Pairwise test generation
 
 ### Specialized Domains
 
-|  |                                                                                                                                             |                              |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
-| **K-Dense-AI/claude-scientific-skills** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/K-Dense-AI/claude-scientific-skills)         | Scientific research and analysis skills |
-| **NotMyself/claude-win11-speckit-update-skill** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/NotMyself/claude-win11-speckit-update-skill) | Windows 11 system management            |
-| **jeffersonwarrior/claudisms** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/jeffersonwarrior/claudisms)                  | SMS messaging integration               |
-| **obra/defense-in-depth** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/obra/superpowers/blob/main/skills/defense-in-depth/SKILL.md)                            | Multi-layered security approaches       |
-| **haunchen/n8n-skill** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/haunchen/n8n-skills) | Enables AI assistants to understand and operate n8n workflows with information on 542 nodes and 20 templates. |
+- **[K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills)** - Scientific research and analysis skills
+- **[NotMyself/claude-win11-speckit-update-skill](https://github.com/NotMyself/claude-win11-speckit-update-skill)** - Windows 11 system management
+- **[jeffersonwarrior/claudisms](https://github.com/jeffersonwarrior/claudisms)** - SMS messaging integration
+- **[obra/defense-in-depth](https://github.com/obra/superpowers/blob/main/skills/defense-in-depth/SKILL.md)** - Multi-layered security approaches
+- **[haunchen/n8n-skill](https://github.com/haunchen/n8n-skills)** - Enables AI assistants to understand and operate n8n workflows with information on 542 nodes and 20 templates.
 
 ## Articles and Tutorials
 
 ### 📚 Official
 
-| Article                                  |                                                                                                                                                                                            |                                                 |
-| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
-| **Claude Skills Quickstart**             | [![Docs](https://img.shields.io/badge/docs-blue?logo=readthedocs&logoColor=white)](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/quickstart)                               | Get started with Claude Skills                  |
-| **Claude Skills Best Practices**         | [![Docs](https://img.shields.io/badge/docs-blue?logo=readthedocs&logoColor=white)](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/best-practices)                           | Best practices for creating skills              |
-| **Skills Cookbook**                      | [![Docs](https://img.shields.io/badge/docs-blue?logo=github&logoColor=white)](https://github.com/anthropics/claude-cookbooks/blob/main/skills/README.md)                                   | Skills examples and guides                      |
-| **What Are Skills**                      | [![Docs](https://img.shields.io/badge/docs-blue?logo=readthedocs&logoColor=white)](https://support.claude.com/en/articles/12512176-what-are-skills)                                        | Introduction to Claude Skills                   |
-| **Using Skills in Claude**               | [![Docs](https://img.shields.io/badge/docs-blue?logo=readthedocs&logoColor=white)](https://support.claude.com/en/articles/12512180-using-skills-in-claude)                                 | How to use skills in Claude                     |
-| **How to Create Custom Skills**          | [![Docs](https://img.shields.io/badge/docs-blue?logo=readthedocs&logoColor=white)](https://support.claude.com/en/articles/12512198-how-to-create-custom-skills)                            | Step-by-step guide to creating skills           |
-| **Create a Skill Through Conversation**  | [![Docs](https://img.shields.io/badge/docs-blue?logo=readthedocs&logoColor=white)](https://support.claude.com/en/articles/12599426-how-to-create-a-skill-with-claude-through-conversation) | Create skills by talking to Claude              |
-| **Claude for Financial Services Skills** | [![Docs](https://img.shields.io/badge/docs-blue?logo=readthedocs&logoColor=white)](https://support.claude.com/en/articles/12663107-claude-for-financial-services-skills)                   | Industry-specific skills for financial services |
-| **Equipping Agents for the Real World**  | [![Article](https://img.shields.io/badge/article-blue?logo=medium&logoColor=white)](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills)           | Technical deep dive into agent skills           |
-| **Teach Claude Your Way of Working**     | [![Docs](https://img.shields.io/badge/docs-blue?logo=readthedocs&logoColor=white)](https://support.claude.com/en/articles/12580051-teach-claude-your-way-of-working-using-skills)          | Customize Claude with your workflow             |
+- **[Claude Skills Quickstart](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/quickstart)** - Get started with Claude Skills
+- **[Claude Skills Best Practices](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/best-practices)** - Best practices for creating skills
+- **[Skills Cookbook](https://github.com/anthropics/claude-cookbooks/blob/main/skills/README.md)** - Skills examples and guides
+- **[What Are Skills](https://support.claude.com/en/articles/12512176-what-are-skills)** - Introduction to Claude Skills
+- **[Using Skills in Claude](https://support.claude.com/en/articles/12512180-using-skills-in-claude)** - How to use skills in Claude
+- **[How to Create Custom Skills](https://support.claude.com/en/articles/12512198-how-to-create-custom-skills)** - Step-by-step guide to creating skills
+- **[Create a Skill Through Conversation](https://support.claude.com/en/articles/12599426-how-to-create-a-skill-with-claude-through-conversation)** - Create skills by talking to Claude
+- **[Claude for Financial Services Skills](https://support.claude.com/en/articles/12663107-claude-for-financial-services-skills)** - Industry-specific skills for financial services
+- **[Equipping Agents for the Real World](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills)** - Technical deep dive into agent skills
+- **[Teach Claude Your Way of Working](https://support.claude.com/en/articles/12580051-teach-claude-your-way-of-working-using-skills)** - Customize Claude with your workflow
 
 ### 👥 Community
 
-| Article                                                                                                                             |                                                                                                                                                      |                                    |
-| ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
-| [**Simon Willison: Claude Skills**](https://simonwillison.net/2025/Oct/16/claude-skills/)                                           | [![Blog](https://img.shields.io/badge/blog-blue?logo=rss&logoColor=white)](https://simonwillison.net/2025/Oct/16/claude-skills/)                     | Introduction to Claude Skills      |
-| [**Nick Nisi: Claude Skills**](https://nicknisi.com/posts/claude-skills/)                                                           | [![Blog](https://img.shields.io/badge/blog-blue?logo=rss&logoColor=white)](https://nicknisi.com/posts/claude-skills/)                                | Getting started with Claude Skills |
-| [**Young Leaders: Skills, Commands, Subagents, Plugins**](https://www.youngleaders.tech/p/claude-skills-commands-subagents-plugins) | [![Blog](https://img.shields.io/badge/blog-blue?logo=rss&logoColor=white)](https://www.youngleaders.tech/p/claude-skills-commands-subagents-plugins) | Comparison of Claude features      |
+- **[Simon Willison: Claude Skills](https://simonwillison.net/2025/Oct/16/claude-skills/)** - Introduction to Claude Skills
+- **[Nick Nisi: Claude Skills](https://nicknisi.com/posts/claude-skills/)** - Getting started with Claude Skills
+- **[Young Leaders: Skills, Commands, Subagents, Plugins](https://www.youngleaders.tech/p/claude-skills-commands-subagents-plugins)** - Comparison of Claude features
 
 ### 🎥 Videos
 
-| Video                                                            |                                                                                                                                  |     |
-| ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | --- |
-| **Claude Skills Just 10x'd My AI Agents by Greg Isenberg**       | [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=G-5bInklwRQ) |     |
-| **Claude Skills: Build Your Own AI Experts (Full Breakdown)**    | [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=46zQX7PSHfU) |     |
-| **Agent Skills: Specialized capabilities you can customize**     | [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=IoqpBKrNaZI) |     |
-| **Claude Skills—From TOY to TOOL: Grab My Tutorial**             | [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=WKFFFumnzYI) |     |
-| **Claude Skills: Glimpse of Continual Learning?**                | [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=FOqbS_llAms) |     |
-| **Stop Using MCP... Use NEW Claude Skills Instead**              | [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=M8yaR-wNGj0) |     |
-| **Claude Skills explained: How to create reusable AI workflows** | [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=MZZCW179nKM) |     |
+- **[Claude Skills Just 10x'd My AI Agents by Greg Isenberg](https://www.youtube.com/watch?v=G-5bInklwRQ)**
+- **[Claude Skills: Build Your Own AI Experts (Full Breakdown)](https://www.youtube.com/watch?v=46zQX7PSHfU)**
+- **[Agent Skills: Specialized capabilities you can customize](https://www.youtube.com/watch?v=IoqpBKrNaZI)**
+- **[Claude Skills—From TOY to TOOL: Grab My Tutorial](https://www.youtube.com/watch?v=WKFFFumnzYI)**
+- **[Claude Skills: Glimpse of Continual Learning?](https://www.youtube.com/watch?v=FOqbS_llAms)**
+- **[Stop Using MCP... Use NEW Claude Skills Instead](https://www.youtube.com/watch?v=M8yaR-wNGj0)**
+- **[Claude Skills explained: How to create reusable AI workflows](https://www.youtube.com/watch?v=MZZCW179nKM)**
 
 ## 🤝 Contributing
 
