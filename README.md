@@ -190,3 +190,5 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 - Submit new skills via PR
 - Improve existing definitions
 - Add new docs & videos & articles
+
+* This is a curated list. We do not audit, endorse, or guarantee the security or correctness of listed projects.
