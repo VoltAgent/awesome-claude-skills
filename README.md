@@ -27,8 +27,6 @@
 Claude Skills are folders with instructions, scripts, and resources that teach Claude specific tasks. Skills can include executable code and are loaded only when needed, allowing you to maintain hundreds without performance impact. Multiple skills can run together for complex tasks like document creation, code testing, and data analysis.
 
 
-### ⭐ Maintaining by the VoltAgent open-source community ⭐
-If you find this helpful, starring the <a href="https://github.com/voltagent/voltagent">VoltAgent framework repo </a> is more than enough support 🙏
 
 ### What a Basic Skill Looks Like?
 
@@ -63,6 +61,14 @@ When testing an API:
 ```
 
 See the [official repo](https://github.com/anthropics/skills) and [creation guide](https://support.claude.com/en/articles/12512198-how-to-create-custom-skills) for more details.
+
+<br/>
+
+<a href="https://github.com/VoltAgent/voltagent">
+<img width="3082" height="592" alt="cta" src="https://github.com/user-attachments/assets/74dbaad4-8285-420b-95df-245948c766c8" />
+</a>
+
+<br/>
 
 ## Official Claude Skills
 
