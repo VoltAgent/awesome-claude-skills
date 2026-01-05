@@ -173,6 +173,7 @@ See the [official repo](https://github.com/anthropics/skills) and [creation guid
 - **[materials-simulation-skills](https://github.com/HeshamFS/materials-simulation-skills)** - Agent skills for computational materials science: numerical stability, time-stepping, linear solvers, mesh generation, simulation validation, parameter optimization, and post-processing.
 - **[wrsmith108/varlock-claude-skill](https://github.com/wrsmith108/varlock-claude-skill)** - Secure environment variable management ensuring secrets are never exposed in Claude sessions, terminals, logs, or git commits
 - **[SHADOWPR0/beautiful_prose](https://github.com/SHADOWPR0/beautiful_prose)** - Hard-edged writing style contract for timeless, forceful English prose without AI tics
+- **[itsmostafa/llm-engineering-skills](https://github.com/itsmostafa/llm-engineering-skills)** - LLM engineering skills collection covering agents, context engineering, prompt engineering, LoRA/QLoRA fine-tuning, RLHF, MLX, PyTorch, and Transformers
 
 ## Articles and Tutorials
 
