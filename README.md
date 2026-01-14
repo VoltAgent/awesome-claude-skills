@@ -176,6 +176,7 @@ See the [official repo](https://github.com/anthropics/skills) and [creation guid
 - **[jeffersonwarrior/claudisms](https://github.com/jeffersonwarrior/claudisms)** - SMS messaging integration
 - **[SHADOWPR0/security-bluebook-builder](https://github.com/SHADOWPR0/security-bluebook-builder)** - Build a concise, normative security Blue Book for sensitive apps (threat model, data classes, auth/session, logging/audit, retention, IR, security gates)
 - **[obra/defense-in-depth](https://github.com/obra/superpowers/blob/main/skills/defense-in-depth/SKILL.md)** - Multi-layered security approaches
+- **[huifer/Claude-Ally-Health](https://github.com/huifer/Claude-Ally-Health)** - A health assistant skill for medical information analysis, symptom tracking, and wellness guidance.
 - **[frmoretto/clarity-gate](https://github.com/frmoretto/clarity-gate)** - Pre-ingestion verification for epistemic quality in RAG systems with 9-point verification and Two-Round HITL workflow
 
 ### Skills by Sentry team for their dev team.
@@ -189,6 +190,7 @@ See the [official repo](https://github.com/anthropics/skills) and [creation guid
 - **[getsentry/find-bugs](https://github.com/getsentry/skills/tree/main/plugins/sentry-skills/skills/find-bugs)** - Find and identify bugs in code
 - **[getsentry/iterate-pr](https://github.com/getsentry/skills/tree/main/plugins/sentry-skills/skills/iterate-pr)** - Iterate on pull request feedback
 
+  
 ### n8n Automation
 
 - **[czlonkowski/n8n-code-javascript](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-code-javascript)** - JavaScript in n8n Code nodes with data access patterns
