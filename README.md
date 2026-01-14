@@ -104,6 +104,11 @@ See the [official repo](https://github.com/anthropics/skills) and [creation guid
 - **[anthropics/skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator)** - Guide for creating skills that extend Claude's capabilities
 - **[anthropics/template](https://github.com/anthropics/skills/tree/main/template)** - Basic template for creating new skills
 
+## Skills by Vercel Engineering Team
+
+- **[vercel-labs/react-best-practices](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-best-practices)** - React best practices and patterns
+- **[vercel-labs/vercel-deploy-claimable](https://github.com/vercel-labs/agent-skills/tree/main/skills/claude.ai/vercel-deploy-claimable)** - Deploy projects to Vercel
+
 ## Community Skills
 
 ### Productivity and Collaboration
