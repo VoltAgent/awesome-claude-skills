@@ -194,6 +194,7 @@ See the [official repo](https://github.com/anthropics/skills) and [creation guid
 - **[omkamal/pypict-skill](https://github.com/omkamal/pypict-claude-skill/blob/main/SKILL.md)** - Pairwise test generation
 - **[alinaqi/claude-bootstrap](https://github.com/alinaqi/claude-bootstrap)** - Opinionated project initialization with security-first guardrails, spec-driven atomic todos, LLM testing patterns, and CLI tool orchestration (gh, vercel, supabase)
 - **[ZhangHanDong/makepad-skills](https://github.com/ZhangHanDong/makepad-skills)** - Makepad UI development skills for Rust apps: setup, patterns, shaders, packaging, and troubleshooting.
+- **[ddaakk/agent-skills](https://github.com/ddaakk/agent-skills)** - React.js focused fork of vercel-labs/agent-skills. Removes Next.js patterns for cleaner LLM context in React-only projects. Includes multilingual docs (EN/KO/ZH/JA).
 
 ### Context Engineering
 
