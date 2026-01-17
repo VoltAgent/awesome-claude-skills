@@ -184,6 +184,7 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 - **[lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill)** - Browser automation with Playwright
 - **[ibelick/ui-skills](https://github.com/ibelick/ui-skills)** - Opinionated, evolving constraints to guide agents when building interfaces
 - **[scarletkc/vexor](https://github.com/scarletkc/vexor)** - Vector-powered CLI for semantic file search with a Claude/Codex skill
+- **[fractalmind-ai/agent-manager-skill](https://github.com/fractalmind-ai/agent-manager-skill)** - tmux + Python agent lifecycle manager for running multiple local CLI AI agents (start/stop/monitor/assign) with cron-friendly scheduling; no server required
 - **[obra/test-driven-development](https://github.com/obra/superpowers/blob/main/skills/test-driven-development/SKILL.md)** - Write tests before implementing code
 - **[ComposioHQ/changelog-generator](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/changelog-generator)** - Transform git commits into release notes
 - **[obra/subagent-driven-development](https://github.com/obra/superpowers/blob/main/skills/subagent-driven-development/SKILL.md)** - Development using multiple sub-agents
