@@ -204,6 +204,7 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 - **[alinaqi/claude-bootstrap](https://github.com/alinaqi/claude-bootstrap)** - Opinionated project initialization with security-first guardrails, spec-driven atomic todos, LLM testing patterns, and CLI tool orchestration (gh, vercel, supabase)
 - **[ZhangHanDong/makepad-skills](https://github.com/ZhangHanDong/makepad-skills)** - Makepad UI development skills for Rust apps: setup, patterns, shaders, packaging, and troubleshooting.
 - **[callstackincubator/react-native-best-practices](https://github.com/callstackincubator/agent-skills/blob/main/skills/react-native-best-practices/SKILL.md)** - Performance optimization for React Native apps from Callstack
+- **[flyzhenghao/skill-quality-gate](https://github.com/flyzhenghao/skill-quality-gate)** - Pre-installation quality assessment and security audit system - evaluates skills across 6 dimensions (code quality, documentation, security, functionality, maintainability, community) with automated scoring and safety recommendations
 
 ### Context Engineering
 
