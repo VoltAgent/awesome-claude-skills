@@ -204,6 +204,7 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 - **[alinaqi/claude-bootstrap](https://github.com/alinaqi/claude-bootstrap)** - Opinionated project initialization with security-first guardrails, spec-driven atomic todos, LLM testing patterns, and CLI tool orchestration (gh, vercel, supabase)
 - **[ZhangHanDong/makepad-skills](https://github.com/ZhangHanDong/makepad-skills)** - Makepad UI development skills for Rust apps: setup, patterns, shaders, packaging, and troubleshooting.
 - **[callstackincubator/react-native-best-practices](https://github.com/callstackincubator/agent-skills/blob/main/skills/react-native-best-practices/SKILL.md)** - Performance optimization for React Native apps from Callstack
+- **[jeffallan/claude-skills](https://github.com/jeffallan/claude-skills)** - 65 full-stack development skills with progressive disclosure architecture covering React, NestJS, Python, DevOps, testing, and 30+ frameworks
 
 ### Context Engineering
 
@@ -215,6 +216,7 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 - **[muratcankoylan/memory-systems](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/memory-systems)** - Design short-term, long-term, and graph-based memory architectures
 - **[muratcankoylan/tool-design](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/tool-design)** - Build tools that agents can use effectively, including architectural reduction patterns
 - **[muratcankoylan/evaluation](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/evaluation)** - Build evaluation frameworks for agent systems
+- **[jeffallan/claude-skills (common-ground)](https://github.com/jeffallan/claude-skills/blob/main/commands/common-ground/COMMAND.md)** - Surfaces and validates Claude's hidden assumptions about projects with confidence tiers (ESTABLISHED/WORKING/OPEN) and interactive adjustment flows
 
 ### Specialized Domains
 
