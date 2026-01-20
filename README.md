@@ -62,6 +62,19 @@ When testing an API:
 
 See the [official repo](https://github.com/anthropics/skills) and [creation guide](https://support.claude.com/en/articles/12512198-how-to-create-custom-skills) for more details.
 
+### Skills Paths for Other AI Coding Assistants
+
+| Tool | Project Path | Global Path | Official Docs |
+|------|-------------|-------------|---------------|
+| Antigravity | `.agent/skills/` | `~/.gemini/antigravity/skills/` | [Antigravity Skills](https://antigravity.google/docs/skills) |
+| Claude Code | `.claude/skills/` | `~/.claude/skills/` | [Claude Code Skills](https://docs.anthropic.com/en/docs/claude-code/skills) |
+| Codex | `.codex/skills/` | `~/.codex/skills/` | [Codex Skills](https://developers.openai.com/codex/skills) |
+| Cursor | `.cursor/skills/` | `~/.cursor/skills/` | [Cursor Skills](https://cursor.com/docs/context/skills) |
+| Gemini CLI | `.gemini/skills/` | `~/.gemini/skills/` | [Gemini CLI Skills](https://geminicli.com/docs/cli/skills/) |
+| GitHub Copilot | `.github/skills/` | `~/.copilot/skills/` | [Copilot Skills](https://docs.github.com/en/copilot/concepts/agents/about-agent-skills) |
+| OpenCode | `.opencode/skills/` | `~/.config/opencode/skills/` | [OpenCode Skills](https://opencode.ai/docs/skills) |
+| Windsurf | `.windsurf/skills/` | `~/.codeium/windsurf/skills/` | [Windsurf Cascade Skills](https://docs.windsurf.com/windsurf/cascade/skills) |
+
 <br/>
 
 <a href="https://github.com/VoltAgent/voltagent">
@@ -146,6 +159,19 @@ See the [official repo](https://github.com/anthropics/skills) and [creation guid
 
 - **[dmmulroy/cloudflare-skill](https://github.com/dmmulroy/cloudflare-skill/tree/main/skill/cloudflare)** - Comprehensive Cloudflare platform reference docs for AI/LLM consumption. Covers Workers, Pages, storage (KV, D1, R2), AI (Workers AI, Vectorize, Agents SDK), networking, security, and infrastructure-as-code.
 
+## Skills by Hugging Face Team
+
+Official AI agent skills from the Hugging Face team for ML workflows.
+
+- **[huggingface/hugging-face-cli](https://github.com/huggingface/skills/tree/main/skills/hugging-face-cli)** - HF Hub operations via CLI: download models/datasets, upload files, manage repos, run cloud compute jobs
+- **[huggingface/hugging-face-datasets](https://github.com/huggingface/skills/tree/main/skills/hugging-face-datasets)** - Create and manage datasets on HF Hub with configs, streaming row updates, and SQL-based querying
+- **[huggingface/hugging-face-evaluation](https://github.com/huggingface/skills/tree/main/skills/hugging-face-evaluation)** - Add evaluation results to model cards, extract eval tables, run custom evaluations with vLLM/lighteval
+- **[huggingface/hugging-face-jobs](https://github.com/huggingface/skills/tree/main/skills/hugging-face-jobs)** - Run compute jobs on HF infrastructure, execute Python scripts, manage scheduled jobs
+- **[huggingface/hugging-face-model-trainer](https://github.com/huggingface/skills/tree/main/skills/hugging-face-model-trainer)** - Train/fine-tune models with TRL on HF Jobs: SFT, DPO, GRPO, GGUF conversion, cost estimation
+- **[huggingface/hugging-face-paper-publisher](https://github.com/huggingface/skills/tree/main/skills/hugging-face-paper-publisher)** - Publish research papers on HF Hub, link to models/datasets, generate markdown articles
+- **[huggingface/hugging-face-tool-builder](https://github.com/huggingface/skills/tree/main/skills/hugging-face-tool-builder)** - Build reusable scripts for HF API operations, chain API calls, automate tasks
+- **[huggingface/hugging-face-trackio](https://github.com/huggingface/skills/tree/main/skills/hugging-face-trackio)** - Track ML experiments with Trackio, log metrics via Python API, real-time dashboards synced to HF Spaces
+
 ## Skills by Expo Team
 
 Official AI agent skills from the Expo team for building, deploying, and debugging Expo apps.
@@ -176,6 +202,7 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 
 ### Development and Testing
 
+- **[antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill)** - Terraform infrastructure as code best practices
 - **[zxkane/aws-skills](https://github.com/zxkane/aws-skills)** - AWS development with infrastructure automation and cloud architecture patterns
 - **[conorluddy/ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill)** - Control iOS Simulator
 - **[sanjay3290/postgres](https://github.com/sanjay3290/ai-skills/tree/main/skills/postgres)** - Execute safe read-only SQL queries against PostgreSQL databases with multi-connection support
@@ -246,36 +273,7 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 - **[wrsmith108/varlock-claude-skill](https://github.com/wrsmith108/varlock-claude-skill)** - Secure environment variable management ensuring secrets are never exposed in Claude sessions, terminals, logs, or git commits
 - **[SHADOWPR0/beautiful_prose](https://github.com/SHADOWPR0/beautiful_prose)** - Hard-edged writing style contract for timeless, forceful English prose without AI tics
 
-## Articles and Tutorials
 
-### 📚 Official
-
-- **[Claude Skills Quickstart](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/quickstart)** - Get started with Claude Skills
-- **[Claude Skills Best Practices](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/best-practices)** - Best practices for creating skills
-- **[Skills Cookbook](https://github.com/anthropics/claude-cookbooks/blob/main/skills/README.md)** - Skills examples and guides
-- **[What Are Skills](https://support.claude.com/en/articles/12512176-what-are-skills)** - Introduction to Claude Skills
-- **[Using Skills in Claude](https://support.claude.com/en/articles/12512180-using-skills-in-claude)** - How to use skills in Claude
-- **[How to Create Custom Skills](https://support.claude.com/en/articles/12512198-how-to-create-custom-skills)** - Step-by-step guide to creating skills
-- **[Create a Skill Through Conversation](https://support.claude.com/en/articles/12599426-how-to-create-a-skill-with-claude-through-conversation)** - Create skills by talking to Claude
-- **[Claude for Financial Services Skills](https://support.claude.com/en/articles/12663107-claude-for-financial-services-skills)** - Industry-specific skills for financial services
-- **[Equipping Agents for the Real World](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills)** - Technical deep dive into agent skills
-- **[Teach Claude Your Way of Working](https://support.claude.com/en/articles/12580051-teach-claude-your-way-of-working-using-skills)** - Customize Claude with your workflow
-
-### 👥 Community
-
-- **[Simon Willison: Claude Skills](https://simonwillison.net/2025/Oct/16/claude-skills/)** - Introduction to Claude Skills
-- **[Nick Nisi: Claude Skills](https://nicknisi.com/posts/claude-skills/)** - Getting started with Claude Skills
-- **[Young Leaders: Skills, Commands, Subagents, Plugins](https://www.youngleaders.tech/p/claude-skills-commands-subagents-plugins)** - Comparison of Claude features
-
-### 🎥 Videos
-
-- **[Claude Skills Just 10x'd My AI Agents by Greg Isenberg](https://www.youtube.com/watch?v=G-5bInklwRQ)**
-- **[Claude Skills: Build Your Own AI Experts (Full Breakdown)](https://www.youtube.com/watch?v=46zQX7PSHfU)**
-- **[Agent Skills: Specialized capabilities you can customize](https://www.youtube.com/watch?v=IoqpBKrNaZI)**
-- **[Claude Skills—From TOY to TOOL: Grab My Tutorial](https://www.youtube.com/watch?v=WKFFFumnzYI)**
-- **[Claude Skills: Glimpse of Continual Learning?](https://www.youtube.com/watch?v=FOqbS_llAms)**
-- **[Stop Using MCP... Use NEW Claude Skills Instead](https://www.youtube.com/watch?v=M8yaR-wNGj0)**
-- **[Claude Skills explained: How to create reusable AI workflows](https://www.youtube.com/watch?v=MZZCW179nKM)**
 
 ## 🤝 Contributing
 
@@ -284,5 +282,7 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 - Submit new skills via PR
 - Improve existing definitions
 - Add new docs & videos & articles
+
+**Note:** Please don't submit skills you created 3 hours ago. We're now focusing on community-adopted skills, especially those published by development teams and proven in real-world usage. Quality over quantity.
 
 * This is a curated list. We do not audit, endorse, or guarantee the security or correctness of listed projects.
