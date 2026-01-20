@@ -26,6 +26,8 @@
 
 Claude Skills are folders with instructions, scripts, and resources that teach Claude specific tasks. Skills can include executable code and are loaded only when needed, allowing you to maintain hundreds without performance impact. Multiple skills can run together for complex tasks like document creation, code testing, and data analysis.
 
+**Note:** Claude Skills have now become the **Agent Skills** standard adopted by multiple AI coding assistants. This means skills listed here can also be used with Codex, Gemini CLI, and other compatible tools. See the table below for paths and documentation.
+
 
 
 ### What a Basic Skill Looks Like?
