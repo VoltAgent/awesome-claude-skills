@@ -119,6 +119,13 @@ See the [official repo](https://github.com/anthropics/skills) and [creation guid
 - **[anthropics/skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator)** - Guide for creating skills that extend Claude's capabilities
 - **[anthropics/template](https://github.com/anthropics/skills/tree/main/template)** - Basic template for creating new skills
 
+## Skills by Google Labs (Stitch)
+
+Agent Skills for the Stitch MCP server, compatible with Claude Code, Gemini CLI, Cursor, and more.
+
+- **[google-labs-code/design-md](https://github.com/google-labs-code/stitch-skills/tree/main/skills/design-md)** - Create and manage DESIGN.md files
+- **[google-labs-code/react-components](https://github.com/google-labs-code/stitch-skills/tree/main/skills/react-components)** - Stitch to React components conversion
+
 ## Skills by Vercel Engineering Team
 
 - **[vercel-labs/react-best-practices](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-best-practices)** - React best practices and patterns
@@ -160,6 +167,29 @@ See the [official repo](https://github.com/anthropics/skills) and [creation guid
 ## Skill by Cloudflare Engineer
 
 - **[dmmulroy/cloudflare-skill](https://github.com/dmmulroy/cloudflare-skill/tree/main/skill/cloudflare)** - Comprehensive Cloudflare platform reference docs for AI/LLM consumption. Covers Workers, Pages, storage (KV, D1, R2), AI (Workers AI, Vectorize, Agents SDK), networking, security, and infrastructure-as-code.
+
+## Skills by Stripe Team
+
+- **[stripe/stripe-best-practices](https://github.com/stripe/ai/tree/main/skills/stripe-best-practices)** - Best practices for building Stripe integrations
+- **[stripe/upgrade-stripe](https://github.com/stripe/ai/tree/main/skills/upgrade-stripe)** - Upgrade Stripe SDK and API versions
+
+## Skills by Better Auth Team
+
+- **[better-auth/best-practices](https://github.com/better-auth/skills/tree/main/better-auth/best-practices)** - Best practices for Better Auth integration
+- **[better-auth/commands](https://github.com/better-auth/skills/tree/main/better-auth/commands)** - Better Auth CLI commands
+- **[better-auth/create-auth](https://github.com/better-auth/skills/tree/main/better-auth/create-auth)** - Create authentication setup with Better Auth
+
+## Skills by Tinybird Team
+
+- **[tinybirdco/tinybird-best-practices](https://github.com/tinybirdco/tinybird-agent-skills/tree/main/skills/tinybird-best-practices)** - Tinybird project guidelines with 18 rules for datasources, pipes, endpoints, SQL, and deployments
+
+## Skills by Neon Team
+
+- **[neondatabase/using-neon](https://github.com/neondatabase/agent-skills/tree/main/skills/using-neon)** - Best practices for Neon Serverless Postgres
+
+## Skills by Supabase Team
+
+- **[supabase/postgres-best-practices](https://github.com/supabase/agent-skills/tree/main/skills/postgres-best-practices)** - PostgreSQL best practices for Supabase
 
 ## Skills by Hugging Face Team
 
