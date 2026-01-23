@@ -212,6 +212,25 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 - **[expo/expo-deployment](https://github.com/expo/skills/tree/main/plugins/expo-deployment)** - Deploy Expo apps to production
 - **[expo/upgrading-expo](https://github.com/expo/skills/tree/main/plugins/upgrading-expo)** - Upgrade Expo SDK versions
 
+## Marketing Skills
+
+- **[coreyhaines31/ab-test-setup](https://github.com/coreyhaines31/marketingskills/tree/main/skills/ab-test-setup)** - A/B test setup and optimization
+- **[coreyhaines31/analytics-tracking](https://github.com/coreyhaines31/marketingskills/tree/main/skills/analytics-tracking)** - Analytics tracking implementation
+- **[coreyhaines31/competitor-alternatives](https://github.com/coreyhaines31/marketingskills/tree/main/skills/competitor-alternatives)** - Competitor analysis and alternatives
+- **[coreyhaines31/copy-editing](https://github.com/coreyhaines31/marketingskills/tree/main/skills/copy-editing)** - Marketing copy editing
+- **[coreyhaines31/copywriting](https://github.com/coreyhaines31/marketingskills/tree/main/skills/copywriting)** - Copywriting best practices
+- **[coreyhaines31/email-sequence](https://github.com/coreyhaines31/marketingskills/tree/main/skills/email-sequence)** - Email sequence creation
+- **[coreyhaines31/form-cro](https://github.com/coreyhaines31/marketingskills/tree/main/skills/form-cro)** - Form conversion rate optimization
+- **[coreyhaines31/launch-strategy](https://github.com/coreyhaines31/marketingskills/tree/main/skills/launch-strategy)** - Product launch strategy
+- **[coreyhaines31/marketing-ideas](https://github.com/coreyhaines31/marketingskills/tree/main/skills/marketing-ideas)** - Marketing ideas generation
+- **[coreyhaines31/marketing-psychology](https://github.com/coreyhaines31/marketingskills/tree/main/skills/marketing-psychology)** - Marketing psychology principles
+- **[coreyhaines31/paid-ads](https://github.com/coreyhaines31/marketingskills/tree/main/skills/paid-ads)** - Paid advertising campaigns
+- **[coreyhaines31/pricing-strategy](https://github.com/coreyhaines31/marketingskills/tree/main/skills/pricing-strategy)** - Pricing strategy optimization
+- **[coreyhaines31/programmatic-seo](https://github.com/coreyhaines31/marketingskills/tree/main/skills/programmatic-seo)** - Programmatic SEO implementation
+- **[coreyhaines31/referral-program](https://github.com/coreyhaines31/marketingskills/tree/main/skills/referral-program)** - Referral program design
+- **[coreyhaines31/seo-audit](https://github.com/coreyhaines31/marketingskills/tree/main/skills/seo-audit)** - SEO audit and optimization
+- **[coreyhaines31/social-content](https://github.com/coreyhaines31/marketingskills/tree/main/skills/social-content)** - Social media content creation
+
 ## Community Skills
 
 ### Productivity and Collaboration
