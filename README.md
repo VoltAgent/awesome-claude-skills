@@ -335,3 +335,9 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 **Note:** Please don't submit skills you created 3 hours ago. We're now focusing on community-adopted skills, especially those published by development teams and proven in real-world usage. Quality over quantity.
 
 * This is a curated list. We do not audit, endorse, or guarantee the security or correctness of listed projects.
+
+| **BenedictKing/context7-auto-research** | [![Source Code](https://img.shields.io/badge/source-blue?logo=github&logoColor=white)](https://github.com/BenedictKing/context7-auto-research) | Auto-fetch latest library/framework documentation via Context7 API |
+| **BenedictKing/tavily-web** | [![Source Code](https://img.shields.io/badge/source-blue?logo=github&logoColor=white)](https://github.com/BenedictKing/tavily-web) | Web search, extraction, crawling using Tavily API |
+| **BenedictKing/exa-search** | [![Source Code](https://img.shields.io/badge/source-blue?logo=github&logoColor=white)](https://github.com/BenedictKing/exa-search) | Semantic search and similar content discovery using Exa API |
+| **BenedictKing/firecrawl-scraper** | [![Source Code](https://img.shields.io/badge/source-blue?logo=github&logoColor=white)](https://github.com/BenedictKing/firecrawl-scraper) | Deep web scraping, screenshots, PDF parsing using Firecrawl API |
+| **BenedictKing/codex-review** | [![Source Code](https://img.shields.io/badge/source-blue?logo=github&logoColor=white)](https://github.com/BenedictKing/codex-review) | Professional code review with auto CHANGELOG generation |
