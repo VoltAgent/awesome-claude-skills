@@ -324,6 +324,7 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 - **[materials-simulation-skills](https://github.com/HeshamFS/materials-simulation-skills)** - Agent skills for computational materials science: numerical stability, time-stepping, linear solvers, mesh generation, simulation validation, parameter optimization, and post-processing
 - **[wrsmith108/varlock-claude-skill](https://github.com/wrsmith108/varlock-claude-skill)** - Secure environment variable management ensuring secrets are never exposed in Claude sessions, terminals, logs, or git commits
 - **[SHADOWPR0/beautiful_prose](https://github.com/SHADOWPR0/beautiful_prose)** - Hard-edged writing style contract for timeless, forceful English prose without AI tics
+- **[syy/ai-config-search-guide](https://github.com/syy/ai-config-search-guide)** - GitHub search queries to discover Claude Code skills, CLAUDE.md files, and other AI assistant configurations
 
 ## 🤝 Contributing
 
