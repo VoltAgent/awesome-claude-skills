@@ -16,6 +16,9 @@
 <div align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://github.com/VoltAgent/voltagent">
+  <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
+</a> 
 ![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-claude-skills?label=Last%20update&style=flat-square)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 [![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-claude-skills?style=social)](https://github.com/VoltAgent/awesome-claude-skills/network/members)
@@ -26,8 +29,7 @@
 
 Claude Skills are folders with instructions, scripts, and resources that teach Claude specific tasks. Skills can include executable code and are loaded only when needed, allowing you to maintain hundreds without performance impact. Multiple skills can run together for complex tasks like document creation, code testing, and data analysis.
 
-**Note:** Claude Skills have now become the **Agent Skills** standard adopted by multiple AI coding assistants. This means skills listed here can also be used with Codex, Gemini CLI, and other compatible tools. See the table below for paths and documentation.
-
+**Note:** This Skills collection were originally created for Claude Code, but have since evolved into the **Agent Skills** open standard adopted by multiple AI coding assistants. This means skills listed here can also be used with Codex, Gemini CLI and other compatible tools. See the table below for paths and documentation.
 
 
 ### What a Basic Skill Looks Like?
