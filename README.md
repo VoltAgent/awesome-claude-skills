@@ -323,16 +323,18 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 - **[wrsmith108/varlock-claude-skill](https://github.com/wrsmith108/varlock-claude-skill)** - Secure environment variable management ensuring secrets are never exposed in Claude sessions, terminals, logs, or git commits
 - **[SHADOWPR0/beautiful_prose](https://github.com/SHADOWPR0/beautiful_prose)** - Hard-edged writing style contract for timeless, forceful English prose without AI tics
 
-
-
 ## 🤝 Contributing
 
 We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 - Submit new skills via PR
 - Improve existing definitions
-- Add new docs & videos & articles
 
 **Note:** Please don't submit skills you created 3 hours ago. We're now focusing on community-adopted skills, especially those published by development teams and proven in real-world usage. Quality over quantity.
 
 * This is a curated list. We do not audit, endorse, or guarantee the security or correctness of listed projects.
+
+
+## Contributor ♥️ Thanks
+
+![Contributors](https://contrib.rocks/image?repo=voltagent/awesome-claude-skills)
