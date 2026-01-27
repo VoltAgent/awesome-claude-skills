@@ -249,6 +249,7 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 - **[ComposioHQ/image-enhancer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/image-enhancer)** - Improve image quality
 - **[wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill)** - Manage Linear issues, projects, and teams with MCP tools, SDK scripts, and GraphQL fallbacks
 - **[wshuyi/x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill)** - Publish articles to X/Twitter
+- **[kumbajirajkumar123/frontend-design](https://github.com/kumbajirajkumar123/frontend-design)** - Frontend Design - an AI agent skill that transforms generic UIs into bold, memorable experiences!
 
 ### Development and Testing
 
