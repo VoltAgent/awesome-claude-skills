@@ -283,7 +283,7 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 - **[ZhangHanDong/makepad-skills](https://github.com/ZhangHanDong/makepad-skills)** - Makepad UI development skills for Rust apps: setup, patterns, shaders, packaging, and troubleshooting.
 - **[callstackincubator/react-native-best-practices](https://github.com/callstackincubator/agent-skills/blob/main/skills/react-native-best-practices/SKILL.md)** - Performance optimization for React Native apps from Callstack
 - **[CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills)** - A curated collection of Three.js skill files that provide Claude Code with foundational knowledge for creating 3D elements and interactive experiences.
-
+- **[kumbajirajkumar123/nextjs-seo-optimizer](https://github.com/kumbajirajkumar123/nextjs-seo-optimizer - Comprehensive Next.js SEO optimization with metadata, sitemaps, structured data, and performance optimization.
 ### Context Engineering
 
 - **[muratcankoylan/context-fundamentals](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-fundamentals)** - Understand what context is, why it matters, and the anatomy of context in agent systems
