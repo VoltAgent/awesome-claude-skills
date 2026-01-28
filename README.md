@@ -327,6 +327,7 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 - **[wrsmith108/varlock-claude-skill](https://github.com/wrsmith108/varlock-claude-skill)** - Secure environment variable management ensuring secrets are never exposed in Claude sessions, terminals, logs, or git commits
 - **[SHADOWPR0/beautiful_prose](https://github.com/SHADOWPR0/beautiful_prose)** - Hard-edged writing style contract for timeless, forceful English prose without AI tics
 - **[SeanZoR/claude-speed-reader](https://github.com/SeanZoR/claude-speed-reader)** -Speed read Claude's responses at 600+ WPM using RSVP with Spritz-style ORP highlighting
+- **[Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** -Automatically convert documentation websites, GitHub repositories, and PDFs into Claude AI skills in minutes.
 
 ## 🤝 Contributing
 
