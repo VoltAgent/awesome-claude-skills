@@ -6,7 +6,7 @@
 <br/>
 
 <div align="center">
-    <strong>The awesome collection of Claude Skills with official and community-built resources.
+    <strong>A curated collection of official Agent Skills from leading development teams and the community.
     </strong>
     <br />
     <br />
@@ -21,17 +21,21 @@
 </a> 
 
 ![Skills Count](https://img.shields.io/badge/skills-147+-blue?style=flat-square)
-![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-claude-skills?label=Last%20update&style=flat-square)
+![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-agent-skills?label=Last%20update&style=flat-square)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
-[![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-claude-skills?style=social)](https://github.com/VoltAgent/awesome-claude-skills/network/members)
+[![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-agent-skills?style=social)](https://github.com/VoltAgent/awesome-agent-skills/network/members)
 
 </div>
 
-# Awesome Claude Skills
+# Awesome Agent Skills
 
-Claude Skills are folders with instructions, scripts, and resources that teach Claude specific tasks. Skills can include executable code and are loaded only when needed, allowing you to maintain hundreds without performance impact. Multiple skills can run together for complex tasks like document creation, code testing, and data analysis.
+Agent Skills are folders with instructions, scripts, and resources that teach AI coding assistants specific tasks
 
-**Note:** This Skills collection were originally created for Claude Code, but have since evolved into the **Agent Skills** open standard adopted by multiple AI coding assistants. This means skills listed here can also be used with Codex, Gemini CLI and other compatible tools. See the table below for paths and documentation.
+This collection features official skills published by leading development teams, including Anthropic, Google Labs, Vercel, Stripe, Cloudflare, Trail of Bits, Sentry, Expo, Hugging Face, and more, alongside community-built skills.
+
+Compatible with Claude Code, Codex, Antigravity, Gemini CLI, Cursor, GitHub Copilot, OpenCode, Windsurf, and more. See the table below for paths and documentation.
+
+The most contributed Agent Skills repository, built and maintained together with the community.
 
 
 ### What a Basic Skill Looks Like?
@@ -123,6 +127,27 @@ See the [official repo](https://github.com/anthropics/skills) and [creation guid
 - **[anthropics/skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator)** - Guide for creating skills that extend Claude's capabilities
 - **[anthropics/template](https://github.com/anthropics/skills/tree/main/template)** - Basic template for creating new skills
 
+## Skills by Vercel Engineering Team
+
+- **[vercel-labs/react-best-practices](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-best-practices)** - React best practices and patterns
+- **[vercel-labs/vercel-deploy-claimable](https://github.com/vercel-labs/agent-skills/tree/main/skills/claude.ai/vercel-deploy-claimable)** - Deploy projects to Vercel
+- **[vercel-labs/web-design-guidelines](https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines)** - Web design guidelines and standards
+- **[vercel-labs/react-native-skills](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-native-skills)** - React Native best practices and performance guidelines
+
+## Skills by Cloudflare Team
+
+- **[cloudflare/agents-sdk](https://github.com/cloudflare/skills/tree/main/agents-sdk)** - Build stateful AI agents with scheduling, RPC, and MCP servers
+- **[cloudflare/building-ai-agent-on-cloudflare](https://github.com/cloudflare/skills/tree/main/building-ai-agent-on-cloudflare)** - Build AI agents with state and WebSockets on Cloudflare
+- **[cloudflare/building-mcp-server-on-cloudflare](https://github.com/cloudflare/skills/tree/main/building-mcp-server-on-cloudflare)** - Build remote MCP servers with tools and OAuth
+- **[cloudflare/commands](https://github.com/cloudflare/skills/tree/main/commands)** - Cloudflare CLI commands reference
+- **[cloudflare/durable-objects](https://github.com/cloudflare/skills/tree/main/durable-objects)** - Stateful coordination with RPC, SQLite, and WebSockets
+- **[cloudflare/web-perf](https://github.com/cloudflare/skills/tree/main/web-perf)** - Audit Core Web Vitals and render-blocking resources
+- **[cloudflare/wrangler](https://github.com/cloudflare/skills/tree/main/wrangler)** - Deploy and manage Workers, KV, R2, D1, Vectorize, Queues, Workflows
+
+## Skills by Supabase Team
+
+- **[supabase/postgres-best-practices](https://github.com/supabase/agent-skills/tree/main/skills/supabase-postgres-best-practices)** - PostgreSQL best practices for Supabase
+
 ## Skills by Google Labs (Stitch)
 
 Agent Skills for the Stitch MCP server, compatible with Claude Code, Gemini CLI, Cursor, and more.
@@ -130,12 +155,23 @@ Agent Skills for the Stitch MCP server, compatible with Claude Code, Gemini CLI,
 - **[google-labs-code/design-md](https://github.com/google-labs-code/stitch-skills/tree/main/skills/design-md)** - Create and manage DESIGN.md files
 - **[google-labs-code/react-components](https://github.com/google-labs-code/stitch-skills/tree/main/skills/react-components)** - Stitch to React components conversion
 
-## Skills by Vercel Engineering Team
+## Skills by Hugging Face Team
 
-- **[vercel-labs/react-best-practices](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-best-practices)** - React best practices and patterns
-- **[vercel-labs/vercel-deploy-claimable](https://github.com/vercel-labs/agent-skills/tree/main/skills/claude.ai/vercel-deploy-claimable)** - Deploy projects to Vercel
-- **[vercel-labs/web-design-guidelines](https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines)** - Web design guidelines and standards
-- **[vercel-labs/react-native-skills](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-native-skills)** - React Native best practices and performance guidelines
+Official AI agent skills from the Hugging Face team for ML workflows.
+
+- **[huggingface/hugging-face-cli](https://github.com/huggingface/skills/tree/main/skills/hugging-face-cli)** - HF Hub CLI for models, datasets, repos, and compute jobs
+- **[huggingface/hugging-face-datasets](https://github.com/huggingface/skills/tree/main/skills/hugging-face-datasets)** - Create and manage datasets with configs and SQL querying
+- **[huggingface/hugging-face-evaluation](https://github.com/huggingface/skills/tree/main/skills/hugging-face-evaluation)** - Model evaluation with vLLM/lighteval and eval tables
+- **[huggingface/hugging-face-jobs](https://github.com/huggingface/skills/tree/main/skills/hugging-face-jobs)** - Run compute jobs and Python scripts on HF infrastructure
+- **[huggingface/hugging-face-model-trainer](https://github.com/huggingface/skills/tree/main/skills/hugging-face-model-trainer)** - Train models with TRL: SFT, DPO, GRPO, GGUF conversion
+- **[huggingface/hugging-face-paper-publisher](https://github.com/huggingface/skills/tree/main/skills/hugging-face-paper-publisher)** - Publish papers on HF Hub with model/dataset links
+- **[huggingface/hugging-face-tool-builder](https://github.com/huggingface/skills/tree/main/skills/hugging-face-tool-builder)** - Build reusable scripts for HF API operations
+- **[huggingface/hugging-face-trackio](https://github.com/huggingface/skills/tree/main/skills/hugging-face-trackio)** - Track ML experiments with real-time dashboards
+
+## Skills by Stripe Team
+
+- **[stripe/stripe-best-practices](https://github.com/stripe/ai/tree/main/skills/stripe-best-practices)** - Best practices for building Stripe integrations
+- **[stripe/upgrade-stripe](https://github.com/stripe/ai/tree/main/skills/upgrade-stripe)** - Upgrade Stripe SDK and API versions
 
 ## Security Skills by Trail of Bits Team
 
@@ -162,6 +198,13 @@ Agent Skills for the Stitch MCP server, compatible with Claude Code, Gemini CLI,
 - **[trailofbits/testing-handbook-skills](https://github.com/trailofbits/skills/tree/main/plugins/testing-handbook-skills)** - Testing Handbook skills: fuzzers, static analysis, sanitizers
 - **[trailofbits/variant-analysis](https://github.com/trailofbits/skills/tree/main/plugins/variant-analysis)** - Find similar vulnerabilities via pattern-based analysis
 
+## Skills by Expo Team
+
+Official AI agent skills from the Expo team for building, deploying, and debugging Expo apps.
+
+- **[expo/expo-app-design](https://github.com/expo/skills/tree/main/plugins/expo-app-design)** - Design and build Expo applications
+- **[expo/expo-deployment](https://github.com/expo/skills/tree/main/plugins/expo-deployment)** - Deploy Expo apps to production
+- **[expo/upgrading-expo](https://github.com/expo/skills/tree/main/plugins/upgrading-expo)** - Upgrade Expo SDK versions
 
 ## Skills by Sentry team for their dev team.
 
@@ -172,25 +215,6 @@ Agent Skills for the Stitch MCP server, compatible with Claude Code, Gemini CLI,
 - **[getsentry/create-pr](https://github.com/getsentry/skills/tree/main/plugins/sentry-skills/skills/create-pr)** - Create pull requests
 - **[getsentry/find-bugs](https://github.com/getsentry/skills/tree/main/plugins/sentry-skills/skills/find-bugs)** - Find and identify bugs in code
 - **[getsentry/iterate-pr](https://github.com/getsentry/skills/tree/main/plugins/sentry-skills/skills/iterate-pr)** - Iterate on pull request feedback
-
-## Skills by Cloudflare Team
-
-- **[cloudflare/agents-sdk](https://github.com/cloudflare/skills/tree/main/agents-sdk)** - Build stateful AI agents with scheduling, RPC, and MCP servers
-- **[cloudflare/building-ai-agent-on-cloudflare](https://github.com/cloudflare/skills/tree/main/building-ai-agent-on-cloudflare)** - Build AI agents with state and WebSockets on Cloudflare
-- **[cloudflare/building-mcp-server-on-cloudflare](https://github.com/cloudflare/skills/tree/main/building-mcp-server-on-cloudflare)** - Build remote MCP servers with tools and OAuth
-- **[cloudflare/commands](https://github.com/cloudflare/skills/tree/main/commands)** - Cloudflare CLI commands reference
-- **[cloudflare/durable-objects](https://github.com/cloudflare/skills/tree/main/durable-objects)** - Stateful coordination with RPC, SQLite, and WebSockets
-- **[cloudflare/web-perf](https://github.com/cloudflare/skills/tree/main/web-perf)** - Audit Core Web Vitals and render-blocking resources
-- **[cloudflare/wrangler](https://github.com/cloudflare/skills/tree/main/wrangler)** - Deploy and manage Workers, KV, R2, D1, Vectorize, Queues, Workflows
-
-## Skill by Cloudflare Engineer
-
-- **[dmmulroy/cloudflare-skill](https://github.com/dmmulroy/cloudflare-skill/tree/main/skill/cloudflare)** - Cloudflare platform reference for Workers, Pages, storage, AI, and networking
-
-## Skills by Stripe Team
-
-- **[stripe/stripe-best-practices](https://github.com/stripe/ai/tree/main/skills/stripe-best-practices)** - Best practices for building Stripe integrations
-- **[stripe/upgrade-stripe](https://github.com/stripe/ai/tree/main/skills/upgrade-stripe)** - Upgrade Stripe SDK and API versions
 
 ## Skills by Better Auth Team
 
@@ -204,11 +228,11 @@ Agent Skills for the Stitch MCP server, compatible with Claude Code, Gemini CLI,
 
 ## Skills by Neon Team
 
-- **[neondatabase/using-neon](https://github.com/neondatabase/agent-skills/tree/main/skills/using-neon)** - Best practices for Neon Serverless Postgres
+- **[neondatabase/using-neon](https://github.com/neondatabase/agent-skills/tree/main/skills/neon-postgres)** - Best practices for Neon Serverless Postgres
 
-## Skills by Supabase Team
+## Skill by Cloudflare Engineer
 
-- **[supabase/postgres-best-practices](https://github.com/supabase/agent-skills/tree/main/skills/postgres-best-practices)** - PostgreSQL best practices for Supabase
+- **[dmmulroy/cloudflare-skill](https://github.com/dmmulroy/cloudflare-skill/tree/main/skill/cloudflare)** - Cloudflare platform reference for Workers, Pages, storage, AI, and networking
 
 ## Skills by fal.ai Team
 
@@ -219,32 +243,14 @@ Agent Skills for the Stitch MCP server, compatible with Claude Code, Gemini CLI,
 - **[fal-ai-community/fal-upscale](https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-upscale/SKILL.md)** - Upscale and enhance image and video resolution using AI
 - **[fal-ai-community/fal-workflow](https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-workflow/SKILL.md)** - Generate workflow JSON files for chaining AI models
 
-## Skills by Hugging Face Team
+## Community Skills
 
-Official AI agent skills from the Hugging Face team for ML workflows.
-
-- **[huggingface/hugging-face-cli](https://github.com/huggingface/skills/tree/main/skills/hugging-face-cli)** - HF Hub CLI for models, datasets, repos, and compute jobs
-- **[huggingface/hugging-face-datasets](https://github.com/huggingface/skills/tree/main/skills/hugging-face-datasets)** - Create and manage datasets with configs and SQL querying
-- **[huggingface/hugging-face-evaluation](https://github.com/huggingface/skills/tree/main/skills/hugging-face-evaluation)** - Model evaluation with vLLM/lighteval and eval tables
-- **[huggingface/hugging-face-jobs](https://github.com/huggingface/skills/tree/main/skills/hugging-face-jobs)** - Run compute jobs and Python scripts on HF infrastructure
-- **[huggingface/hugging-face-model-trainer](https://github.com/huggingface/skills/tree/main/skills/hugging-face-model-trainer)** - Train models with TRL: SFT, DPO, GRPO, GGUF conversion
-- **[huggingface/hugging-face-paper-publisher](https://github.com/huggingface/skills/tree/main/skills/hugging-face-paper-publisher)** - Publish papers on HF Hub with model/dataset links
-- **[huggingface/hugging-face-tool-builder](https://github.com/huggingface/skills/tree/main/skills/hugging-face-tool-builder)** - Build reusable scripts for HF API operations
-- **[huggingface/hugging-face-trackio](https://github.com/huggingface/skills/tree/main/skills/hugging-face-trackio)** - Track ML experiments with real-time dashboards
-
-## Skills by Expo Team
-
-Official AI agent skills from the Expo team for building, deploying, and debugging Expo apps.
-
-- **[expo/expo-app-design](https://github.com/expo/skills/tree/main/plugins/expo-app-design)** - Design and build Expo applications
-- **[expo/expo-deployment](https://github.com/expo/skills/tree/main/plugins/expo-deployment)** - Deploy Expo apps to production
-- **[expo/upgrading-expo](https://github.com/expo/skills/tree/main/plugins/upgrading-expo)** - Upgrade Expo SDK versions
-
-## Marketing Skills
+### Marketing
 
 - **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** - 23+ marketing skills for SEO, copywriting, email, and ads
-
-## Community Skills
+- **[ComposioHQ/content-research-writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer)** - Enhance writing with research
+- **[ComposioHQ/competitive-ads-extractor](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/competitive-ads-extractor)** - Analyze competitor advertising
+- **[wshuyi/x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill)** - Publish articles to X/Twitter
 
 ### Productivity and Collaboration
 
@@ -262,12 +268,9 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 - **[obra/dispatching-parallel-agents](https://github.com/obra/superpowers/blob/main/skills/dispatching-parallel-agents/SKILL.md)** - Coordinate multiple simultaneous agents
 - **[obra/sharing-skills](https://github.com/obra/superpowers/blob/main/skills/sharing-skills/SKILL.md)** - Distribute and communicate capabilities
 - **[obra/using-superpowers](https://github.com/obra/superpowers/blob/main/skills/using-superpowers/SKILL.md)** - Leverage core platform capabilities
-- **[ComposioHQ/content-research-writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer)** - Enhance writing with research
 - **[ComposioHQ/meeting-insights-analyzer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/meeting-insights-analyzer)** - Analyze meeting communication patterns
-- **[ComposioHQ/competitive-ads-extractor](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/competitive-ads-extractor)** - Analyze competitor advertising
 - **[ComposioHQ/image-enhancer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/image-enhancer)** - Improve image quality
 - **[wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill)** - Manage Linear issues, projects, and teams
-- **[wshuyi/x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill)** - Publish articles to X/Twitter
 - **[Shpigford/readme](https://github.com/Shpigford/skills/tree/main/readme)** - Generate comprehensive project documentation
 
 ### Development and Testing
@@ -362,9 +365,9 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 **Note:** Please don't submit skills you created 3 hours ago. We're now focusing on community-adopted skills, especially those published by development teams and proven in real-world usage. Quality over quantity.
 
-* This is a curated list. We do not audit, endorse, or guarantee the security or correctness of listed projects.
+* This is a curated list. Skills listed here are created and maintained by their respective authors and teams, not by us. We select community-adopted, proven skills and do not audit, endorse, or guarantee the security or correctness of listed projects. If you find an issue with a listed skill or want your skill removed, please [open an issue](https://github.com/VoltAgent/awesome-agent-skills/issues) and we'll take care of it promptly.
 
 
 ## Contributor ♥️ Thanks
+![Contributors](https://contrib.rocks/image?repo=voltagent/awesome-agent-skills&max=500&columns=20&anon=1)
 
-![Contributors](https://contrib.rocks/image?repo=voltagent/awesome-claude-skills)
