@@ -244,6 +244,10 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 - **[fal-ai-community/fal-upscale](https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-upscale/SKILL.md)** - Upscale and enhance image and video resolution using AI
 - **[fal-ai-community/fal-workflow](https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-workflow/SKILL.md)** - Generate workflow JSON files for chaining AI models
 
+## Skills by Remotion Team
+
+- **[remotion-dev/remotion](https://github.com/remotion-dev/skills/tree/main/skills/remotion)** - Programmatic video creation with React
+
 ## Community Skills
 
 ### Marketing
