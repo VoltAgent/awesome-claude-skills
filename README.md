@@ -21,15 +21,15 @@
 </a> 
 
 ![Skills Count](https://img.shields.io/badge/skills-147+-blue?style=flat-square)
-![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-claude-skills?label=Last%20update&style=flat-square)
+![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-agent-skills?label=Last%20update&style=flat-square)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
-[![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-claude-skills?style=social)](https://github.com/VoltAgent/awesome-claude-skills/network/members)
+[![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-agent-skills?style=social)](https://github.com/VoltAgent/awesome-agent-skills/network/members)
 
 </div>
 
 # Awesome Agent Skills
 
-Agent Skills are folders with instructions, scripts, and resources that teach AI coding assistants specific tasks. Skills can include executable code and are loaded only when needed, allowing you to maintain hundreds without performance impact. Multiple skills can run together for complex tasks like document creation, code testing, and data analysis.
+Agent Skills are folders with instructions, scripts, and resources that teach AI coding assistants specific tasks. S
 
 This collection features official skills published by leading development teams, including Anthropic, Google Labs, Vercel, Stripe, Cloudflare, Trail of Bits, Sentry, Expo, Hugging Face, and more, alongside community-built skills. Compatible with Claude Code, Codex, Antigravity, Gemini CLI, Cursor, GitHub Copilot, OpenCode, Windsurf, and more. See the table below for paths and documentation.
 
@@ -362,9 +362,9 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 **Note:** Please don't submit skills you created 3 hours ago. We're now focusing on community-adopted skills, especially those published by development teams and proven in real-world usage. Quality over quantity.
 
-* This is a curated list. We do not audit, endorse, or guarantee the security or correctness of listed projects.
+* This is a curated list. Skills listed here are created and maintained by their respective authors and teams, not by us. We select community-adopted, proven skills and do not audit, endorse, or guarantee the security or correctness of listed projects. If you find an issue with a listed skill or want your skill removed, please [open an issue](https://github.com/VoltAgent/awesome-agent-skills/issues) and we'll take care of it promptly.
 
 
 ## Contributor ♥️ Thanks
 
-![Contributors](https://contrib.rocks/image?repo=voltagent/awesome-claude-skills&max=100)
+![Contributors](https://contrib.rocks/image?repo=voltagent/awesome-agent-skills&max=100)
