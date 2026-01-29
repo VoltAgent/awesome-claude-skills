@@ -1,129 +1,43 @@
-# Contributing
+# Contributing to Awesome Agent Skills
 
-**This is a curated collection of links** to Claude Skills, articles, and videos. We organize links to existing resources, we don't host skills or content.
-
-## How to Contribute
-
-1. Fork the repository
-2. Create a branch (`git checkout -b add-new-skill`)
-3. Edit `README.md`
-4. Commit (`git commit -m 'Add skill: author/skill-name'`)
-5. Push (`git push origin add-new-skill`)
-6. Open a Pull Request
+A curated list of Agent Skills for AI coding assistants. We organize links to skills hosted in their own repositories.
 
 ## Adding a Skill
 
-### Format
+### Entry Format
+
+Add your skill to the end of the relevant category in `README.md`:
 
 ```markdown
-| **author/skill-name** | [![Source Code](https://img.shields.io/badge/source-code-blue?logo=github)](https://github.com/author/repo/path) | Description |
+- **[author/skill-name](https://github.com/author/repo/path)** - Short description of what it does
 ```
 
+### Where to Add
+
+- **Development team skills**: If your team has an existing section (e.g. "Skills by Vercel Engineering Team"), add to the end of that section.
+- **Community skills**: Add to the end of the matching subcategory under "Community Skills" (Marketing, Productivity and Collaboration, Development and Testing, Context Engineering, AI and Data, n8n Automation, or Other).
+- If no existing category fits, add to "Other".
 
 ### Requirements
 
-- ✅ Public repository
-- ✅ Working skill
-- ✅ Has documentation
-- ✅ Relevant to Claude Skills
-- ✅ Author prefix included
+- Public repository with a working skill
+- Has documentation (README or SKILL.md)
+- Author/org prefix included in the name
+- Description must be short, 10 words or fewer. No lengthy paragraphs.
+- Skill must have real community usage. We focus on community-adopted, proven skills. Brand new skills that were just created are not accepted. Give your skill time to mature and gain users before submitting.
 
-## Adding Articles
+### PR Title
 
-### Format
-
-```markdown
-| **Title** | [![Badge](https://img.shields.io/badge/type-blue?logo=icon&logoColor=white)](https://url) | Description |
-```
-
-### Badges
-
-**Docs:**
-```markdown
-[![Docs](https://img.shields.io/badge/docs-blue?logo=readthedocs&logoColor=white)](https://url)
-```
-
-**GitHub Docs:**
-```markdown
-[![Docs](https://img.shields.io/badge/docs-blue?logo=github&logoColor=white)](https://url)
-```
-
-**Blog:**
-```markdown
-[![Blog](https://img.shields.io/badge/blog-blue?logo=rss&logoColor=white)](https://url)
-```
-
-**Article:**
-```markdown
-[![Article](https://img.shields.io/badge/article-blue?logo=medium&logoColor=white)](https://url)
-```
-
-### Requirements
-
-- ✅ Public (no paywall)
-- ✅ Relevant to Claude Skills
-- ✅ Accurate and current
-
-## Adding Videos
-
-### Format
-
-```markdown
-| **Title** | [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtube.com/watch?v=ID) | |
-```
-
-### Requirements
-
-- ✅ Public on YouTube
-- ✅ Relevant to Claude Skills
-- ✅ Good quality
-
-## Pull Request
-
-### Title Format
-
-- Skill: `Add skill: author/skill-name`
-- Article: `Add article: Title`
-- Video: `Add video: Title`
-- Update: `Update: author/skill-name`
-- Fix: `Fix: description`
-
-### Template
-
-```markdown
-## Type
-- [ ] Skill
-- [ ] Article
-- [ ] Video
-- [ ] Fix
-
-## Checklist
-- [ ] Link works
-- [ ] Relevant to Claude Skills
-- [ ] Formatting correct
-- [ ] Added to correct section
-- [ ] (Skills) Author prefix included
-```
-
+`Add skill: author/skill-name`
 
 ## Important
 
-⭐ This repository:
-- Curates links only
-- Doesn't host skill code
-- Each skill lives in its own repo
-
-📝 Before submitting:
-- Verify links work
-- Check documentation exists
-- Ensure public access
+- This repository curates links only. Each skill lives in its own repo.
+- Verify your links work before submitting.
+- We review all submissions and may decline skills that don't meet the quality bar.
 
 ## Help
 
-- Check existing issues/PRs
-- Open new issue for questions
-- Visit skill's repo for skill-specific help
-
----
-
-Thank you for contributing! 🎉
+- Check existing issues and PRs first
+- Open a new issue for questions
+- Visit the skill's own repo for skill-specific help
