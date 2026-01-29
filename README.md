@@ -133,6 +133,7 @@ Agent Skills for the Stitch MCP server, compatible with Claude Code, Gemini CLI,
 - **[vercel-labs/react-best-practices](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-best-practices)** - React best practices and patterns
 - **[vercel-labs/vercel-deploy-claimable](https://github.com/vercel-labs/agent-skills/tree/main/skills/claude.ai/vercel-deploy-claimable)** - Deploy projects to Vercel
 - **[vercel-labs/web-design-guidelines](https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines)** - Web design guidelines and standards
+- **[vercel-labs/react-native-skills](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-native-skills)** - React Native best practices and performance guidelines
 
 ## Security Skills by Trail of Bits Team
 
@@ -140,14 +141,19 @@ Agent Skills for the Stitch MCP server, compatible with Claude Code, Gemini CLI,
 - **[trailofbits/audit-context-building](https://github.com/trailofbits/skills/tree/main/plugins/audit-context-building)** - Deep architectural context via ultra-granular code analysis
 - **[trailofbits/building-secure-contracts](https://github.com/trailofbits/skills/tree/main/plugins/building-secure-contracts)** - Smart contract security toolkit with vulnerability scanners for 6 blockchains
 - **[trailofbits/burpsuite-project-parser](https://github.com/trailofbits/skills/tree/main/plugins/burpsuite-project-parser)** - Search and extract data from Burp Suite project files
+- **[trailofbits/claude-in-chrome-troubleshooting](https://github.com/trailofbits/skills/tree/main/plugins/claude-in-chrome-troubleshooting)** - Diagnose and fix Claude in Chrome MCP extension connectivity issues
 - **[trailofbits/constant-time-analysis](https://github.com/trailofbits/skills/tree/main/plugins/constant-time-analysis)** - Detect compiler-induced timing side-channels in crypto code
 - **[trailofbits/culture-index](https://github.com/trailofbits/skills/tree/main/plugins/culture-index)** - Index and search culture documentation
 - **[trailofbits/differential-review](https://github.com/trailofbits/skills/tree/main/plugins/differential-review)** - Security-focused diff review with git history analysis
 - **[trailofbits/dwarf-expert](https://github.com/trailofbits/skills/tree/main/plugins/dwarf-expert)** - DWARF debugging format expertise
 - **[trailofbits/entry-point-analyzer](https://github.com/trailofbits/skills/tree/main/plugins/entry-point-analyzer)** - Identify state-changing entry points in smart contracts
+- **[trailofbits/firebase-apk-scanner](https://github.com/trailofbits/skills/tree/main/plugins/firebase-apk-scanner)** - Scan Android APKs for Firebase misconfigurations and security vulnerabilities
 - **[trailofbits/fix-review](https://github.com/trailofbits/skills/tree/main/plugins/fix-review)** - Verify fix commits address audit findings without new bugs
+- **[trailofbits/insecure-defaults](https://github.com/trailofbits/skills/tree/main/plugins/insecure-defaults)** - Detect insecure default configurations like hardcoded secrets, default credentials, and weak crypto
+- **[trailofbits/modern-python](https://github.com/trailofbits/skills/tree/main/plugins/modern-python)** - Modern Python tooling with uv, ruff, ty, and pytest best practices
 - **[trailofbits/property-based-testing](https://github.com/trailofbits/skills/tree/main/plugins/property-based-testing)** - Property-based testing for multiple languages and smart contracts
 - **[trailofbits/semgrep-rule-creator](https://github.com/trailofbits/skills/tree/main/plugins/semgrep-rule-creator)** - Create and refine Semgrep rules for vulnerability detection
+- **[trailofbits/semgrep-rule-variant-creator](https://github.com/trailofbits/skills/tree/main/plugins/semgrep-rule-variant-creator)** - Port existing Semgrep rules to new target languages with test-driven validation
 - **[trailofbits/sharp-edges](https://github.com/trailofbits/skills/tree/main/plugins/sharp-edges)** - Identify error-prone APIs and dangerous configurations
 - **[trailofbits/spec-to-code-compliance](https://github.com/trailofbits/skills/tree/main/plugins/spec-to-code-compliance)** - Specification-to-code compliance checker for blockchain audits
 - **[trailofbits/static-analysis](https://github.com/trailofbits/skills/tree/main/plugins/static-analysis)** - Static analysis toolkit with CodeQL, Semgrep, and SARIF
@@ -202,6 +208,15 @@ Agent Skills for the Stitch MCP server, compatible with Claude Code, Gemini CLI,
 
 - **[supabase/postgres-best-practices](https://github.com/supabase/agent-skills/tree/main/skills/postgres-best-practices)** - PostgreSQL best practices for Supabase
 
+## Skills by fal.ai Team
+
+- **[fal-ai-community/fal-audio](https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-audio/SKILL.md)** - Text-to-speech and speech-to-text using fal.ai audio models
+- **[fal-ai-community/fal-generate](https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-generate/SKILL.md)** - Generate images and videos using fal.ai AI models with queue support
+- **[fal-ai-community/fal-image-edit](https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-image-edit/SKILL.md)** - AI-powered image editing with style transfer, object removal, and background changes
+- **[fal-ai-community/fal-platform](https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-platform/SKILL.md)** - Platform APIs for model management, pricing, usage tracking, and cost estimation
+- **[fal-ai-community/fal-upscale](https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-upscale/SKILL.md)** - Upscale and enhance image and video resolution using AI
+- **[fal-ai-community/fal-workflow](https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-workflow/SKILL.md)** - Generate production-ready workflow JSON files for chaining multiple AI models
+
 ## Skills by Hugging Face Team
 
 Official AI agent skills from the Hugging Face team for ML workflows.
@@ -233,6 +248,7 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 
 - **[notiondevs/Notion Skills for Claude](https://www.notion.so/notiondevs/Notion-Skills-for-Claude-28da4445d27180c7af1df7d8615723d0)** - Skills for working with Notion
 - **[op7418/NanoBanana-PPT-Skills](https://github.com/op7418/NanoBanana-PPT-Skills)** - AI-powered PPT generation with document analysis, styled images, and optional video transitions
+- **[zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides)** - Generate animation-rich HTML presentations from scratch or by converting PowerPoint files with visual style previews
 - **[PleasePrompto/notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill)** - Interact with NotebookLM for document-based conversations
 - **[obra/superpowers-lab](https://github.com/obra/superpowers-lab)** - Lab environment for Claude superpowers
 - **[obra/brainstorming](https://github.com/obra/superpowers/blob/main/skills/brainstorming/SKILL.md)** - Generate and explore ideas
