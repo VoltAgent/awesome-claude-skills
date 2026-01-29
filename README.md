@@ -6,7 +6,7 @@
 <br/>
 
 <div align="center">
-    <strong>The awesome collection of Claude Skills with official and community-built resources.
+    <strong>A curated collection of official Agent Skills from leading development teams and the community.
     </strong>
     <br />
     <br />
@@ -27,11 +27,11 @@
 
 </div>
 
-# Awesome Claude Skills
+# Awesome Agent Skills
 
-Claude Skills are folders with instructions, scripts, and resources that teach Claude specific tasks. Skills can include executable code and are loaded only when needed, allowing you to maintain hundreds without performance impact. Multiple skills can run together for complex tasks like document creation, code testing, and data analysis.
+Agent Skills are folders with instructions, scripts, and resources that teach AI coding assistants specific tasks. Skills can include executable code and are loaded only when needed, allowing you to maintain hundreds without performance impact. Multiple skills can run together for complex tasks like document creation, code testing, and data analysis.
 
-**Note:** This Skills collection were originally created for Claude Code, but have since evolved into the **Agent Skills** open standard adopted by multiple AI coding assistants. This means skills listed here can also be used with Codex, Gemini CLI and other compatible tools. See the table below for paths and documentation.
+This collection features official skills published by leading development teams, including Anthropic, Google Labs, Vercel, Stripe, Cloudflare, Trail of Bits, Sentry, Expo, Hugging Face, and more, alongside community-built skills. Compatible with Claude Code, Codex, Antigravity, Gemini CLI, Cursor, GitHub Copilot, OpenCode, Windsurf, and more. See the table below for paths and documentation.
 
 
 ### What a Basic Skill Looks Like?
@@ -367,4 +367,4 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## Contributor ♥️ Thanks
 
-![Contributors](https://contrib.rocks/image?repo=voltagent/awesome-claude-skills)
+![Contributors](https://contrib.rocks/image?repo=voltagent/awesome-claude-skills&max=100)
