@@ -11,6 +11,10 @@
     </strong>
     <br />
     <br />
+    <p>
+        <a href="README.md">English</a> |
+        <a href="README_es.md">Español</a>
+    </p>
 
 </div>
 
