@@ -21,7 +21,7 @@
   <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
 </a> 
 
-![Skills Count](https://img.shields.io/badge/Skills-172+-blue?style=flat-square)
+![Skills Count](https://img.shields.io/badge/Skills-180+-blue?style=flat-square)
 ![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-agent-skills?label=Last%20update&style=flat-square)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 [![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-agent-skills?style=social)](https://github.com/VoltAgent/awesome-agent-skills/network/members)
@@ -133,6 +133,10 @@ See the [official repo](https://github.com/anthropics/skills) and [creation guid
 - **[vercel-labs/react-best-practices](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-best-practices)** - React best practices and patterns
 - **[vercel-labs/vercel-deploy-claimable](https://github.com/vercel-labs/agent-skills/tree/main/skills/claude.ai/vercel-deploy-claimable)** - Deploy projects to Vercel
 - **[vercel-labs/web-design-guidelines](https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines)** - Web design guidelines and standards
+- **[vercel-labs/composition-patterns](https://github.com/vercel-labs/agent-skills/tree/main/skills/composition-patterns)** - React component composition and reusable patterns
+- **[vercel-labs/next-best-practices](https://github.com/vercel-labs/next-skills/tree/main/skills/next-best-practices)** - Next.js best practices and recommended patterns
+- **[vercel-labs/next-cache-components](https://github.com/vercel-labs/next-skills/tree/main/skills/next-cache-components)** - Caching strategies and cache-aware components in Next.js
+- **[vercel-labs/next-upgrade](https://github.com/vercel-labs/next-skills/tree/main/skills/next-upgrade)** - Upgrade Next.js projects to newer versions
 - **[vercel-labs/react-native-skills](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-native-skills)** - React Native best practices and performance guidelines
 
 ## Skills by Cloudflare Team
@@ -243,6 +247,13 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 - **[fal-ai-community/fal-platform](https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-platform/SKILL.md)** - Platform APIs for model management, pricing, and usage tracking
 - **[fal-ai-community/fal-upscale](https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-upscale/SKILL.md)** - Upscale and enhance image and video resolution using AI
 - **[fal-ai-community/fal-workflow](https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-workflow/SKILL.md)** - Generate workflow JSON files for chaining AI models
+
+## Skills by Sanity Team
+
+- **[sanity-io/sanity-best-practices](https://github.com/sanity-io/agent-toolkit/tree/main/skills/sanity-best-practices)** - Best practices for Sanity Studio, GROQ queries, and content workflows
+- **[sanity-io/content-modeling-best-practices](https://github.com/sanity-io/agent-toolkit/tree/main/skills/content-modeling-best-practices)** - Guidelines for designing scalable content models in Sanity
+- **[sanity-io/seo-aeo-best-practices](https://github.com/sanity-io/agent-toolkit/tree/main/skills/seo-aeo-best-practices)** - SEO and answer engine optimization patterns for content sites
+- **[sanity-io/content-experimentation-best-practices](https://github.com/sanity-io/agent-toolkit/tree/main/skills/content-experimentation-best-practices)** - Content A/B testing and experimentation workflows
 
 ## Skills by Remotion Team
 
