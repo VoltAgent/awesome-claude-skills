@@ -317,6 +317,7 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 - **[AvdLee/swiftui-expert-skill](https://github.com/AvdLee/SwiftUI-Agent-Skill/tree/main/swiftui-expert-skill)** - Modern SwiftUI best practices and iOS 26+ Liquid Glass adoption
 - **[efremidze/swift-patterns-skill](https://github.com/efremidze/swift-patterns-skill/tree/main/swift-patterns)** - Modern Swift/SwiftUI best practices
 - **[CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills)** - Three.js skills for creating 3D elements and interactive experiences
+- **[knot0-com/vibe-testing](https://github.com/knot0-com/vibe-testing)** - Pressure-test spec documents with LLM reasoning before writing code
 
 ### Context Engineering
 
