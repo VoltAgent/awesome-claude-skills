@@ -288,6 +288,7 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 - **[ComposioHQ/image-enhancer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/image-enhancer)** - Improve image quality
 - **[wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill)** - Manage Linear issues, projects, and teams
 - **[Shpigford/readme](https://github.com/Shpigford/skills/tree/main/readme)** - Generate comprehensive project documentation
+- **[lee-fuhr/claude-session-index](https://github.com/lee-fuhr/claude-session-index)** - Search and analyze Claude Code session history
 
 ### Development and Testing
 
