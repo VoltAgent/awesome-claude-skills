@@ -85,6 +85,7 @@ See the [official repo](https://github.com/anthropics/skills) and [creation guid
 | GitHub Copilot | `.github/skills/` | `~/.copilot/skills/` | [Copilot Skills](https://docs.github.com/en/copilot/concepts/agents/about-agent-skills) |
 | OpenCode | `.opencode/skills/` | `~/.config/opencode/skills/` | [OpenCode Skills](https://opencode.ai/docs/skills) |
 | Windsurf | `.windsurf/skills/` | `~/.codeium/windsurf/skills/` | [Windsurf Cascade Skills](https://docs.windsurf.com/windsurf/cascade/skills) |
+| AdaL | `.adal/skills/` | `~/.adal/skills/` | [AdaL Skills](https://docs.sylph.ai/) |
 
 <br/>
 
