@@ -77,6 +77,7 @@ See the [official repo](https://github.com/anthropics/skills) and [creation guid
 
 | Tool | Project Path | Global Path | Official Docs |
 |------|-------------|-------------|---------------|
+| AdaL CLI | `.adal/skills/` | `~/.adal/skills/` | [AdaL Skills](https://docs.sylph.ai/features/plugins-and-skills) |
 | Antigravity | `.agent/skills/` | `~/.gemini/antigravity/skills/` | [Antigravity Skills](https://antigravity.google/docs/skills) |
 | Claude Code | `.claude/skills/` | `~/.claude/skills/` | [Claude Code Skills](https://docs.anthropic.com/en/docs/claude-code/skills) |
 | Codex | `.codex/skills/` | `~/.codex/skills/` | [Codex Skills](https://developers.openai.com/codex/skills) |
