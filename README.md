@@ -21,7 +21,7 @@
   <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
 </a> 
 
-![Skills Count](https://img.shields.io/badge/Skills-180+-blue?style=flat-square)
+![Skills Count](https://img.shields.io/badge/Skills-195+-blue?style=flat-square)
 ![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-agent-skills?label=Last%20update&style=flat-square)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 [![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-agent-skills?style=social)](https://github.com/VoltAgent/awesome-agent-skills/network/members)
@@ -38,40 +38,28 @@ Compatible with Claude Code, Codex, Antigravity, Gemini CLI, Cursor, GitHub Copi
 
 The most contributed Agent Skills repository, built and maintained together with the community.
 
+## Table of Contents
 
-### What a Basic Skill Looks Like?
+- [Official Claude Skills](#official-claude-skills)
+- [Skills by Vercel Engineering Team](#skills-by-vercel-engineering-team)
+- [Skills by Cloudflare Team](#skills-by-cloudflare-team)
+- [Skills by Supabase Team](#skills-by-supabase-team)
+- [Skills by Google Labs (Stitch)](#skills-by-google-labs-stitch)
+- [Skills by Hugging Face Team](#skills-by-hugging-face-team)
+- [Skills by Stripe Team](#skills-by-stripe-team)
+- [Security Skills by Trail of Bits Team](#security-skills-by-trail-of-bits-team)
+- [Skills by Expo Team](#skills-by-expo-team)
+- [Skills by Sentry Team](#skills-by-sentry-team-for-their-dev-team)
+- [Skills by Better Auth Team](#skills-by-better-auth-team)
+- [Skills by Tinybird Team](#skills-by-tinybird-team)
+- [Skills by Neon Team](#skills-by-neon-team)
+- [Skill by Cloudflare Engineer](#skill-by-cloudflare-engineer)
+- [Skills by fal.ai Team](#skills-by-falai-team)
+- [Skills by Sanity Team](#skills-by-sanity-team)
+- [Skills by Remotion Team](#skills-by-remotion-team)
+- [Skills by WordPress Development Team](#skills-by-wordpress-development-team)
+- [Community Skills](#community-skills)
 
-```YAML
----
-name: api-tester
-description: Test REST APIs and validate responses
----
-
-# API Tester
-
-Test HTTP endpoints and validate response structures.
-
-## When to Use This Skill
-
-Use this skill when you need to test API endpoints and verify response data.
-
-## Instructions
-
-When testing an API:
-
-1. Send a request to the specified endpoint
-2. Check the response status code
-3. Validate the response body structure
-4. Report any errors or unexpected results
-
-## Response Validation
-
-- Verify required fields exist
-- Check data types match expected values
-- Confirm nested objects have correct structure
-```
-
-See the [official repo](https://github.com/anthropics/skills) and [creation guide](https://support.claude.com/en/articles/12512198-how-to-create-custom-skills) for more details.
 
 ### Skills Paths for Other AI Coding Assistants
 
@@ -93,6 +81,8 @@ See the [official repo](https://github.com/anthropics/skills) and [creation guid
 </a>
 
 <br/>
+
+
 
 ## Official Claude Skills
 
@@ -259,6 +249,22 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 
 - **[remotion-dev/remotion](https://github.com/remotion-dev/skills/tree/main/skills/remotion)** - Programmatic video creation with React
 
+## Skills by WordPress Development Team
+
+- **[WordPress/wordpress-router](https://github.com/WordPress/agent-skills/tree/trunk/skills/wordpress-router)** - Classifies WordPress repos and routes to the right workflow
+- **[WordPress/wp-project-triage](https://github.com/WordPress/agent-skills/tree/trunk/skills/wp-project-triage)** - Detects project type, tooling, and versions automatically
+- **[WordPress/wp-block-development](https://github.com/WordPress/agent-skills/tree/trunk/skills/wp-block-development)** - Gutenberg blocks: block.json, attributes, rendering, deprecations
+- **[WordPress/wp-block-themes](https://github.com/WordPress/agent-skills/tree/trunk/skills/wp-block-themes)** - Block themes: theme.json, templates, patterns, style variations
+- **[WordPress/wp-plugin-development](https://github.com/WordPress/agent-skills/tree/trunk/skills/wp-plugin-development)** - Plugin architecture, hooks, settings API, security
+- **[WordPress/wp-rest-api](https://github.com/WordPress/agent-skills/tree/trunk/skills/wp-rest-api)** - REST API routes/endpoints, schema, auth, and response shaping
+- **[WordPress/wp-interactivity-api](https://github.com/WordPress/agent-skills/tree/trunk/skills/wp-interactivity-api)** - Frontend interactivity with data-wp-* directives and stores
+- **[WordPress/wp-abilities-api](https://github.com/WordPress/agent-skills/tree/trunk/skills/wp-abilities-api)** - Capability-based permissions and REST API authentication
+- **[WordPress/wp-wpcli-and-ops](https://github.com/WordPress/agent-skills/tree/trunk/skills/wp-wpcli-and-ops)** - WP-CLI commands, automation, multisite, search-replace
+- **[WordPress/wp-performance](https://github.com/WordPress/agent-skills/tree/trunk/skills/wp-performance)** - Profiling, caching, database optimization, Server-Timing
+- **[WordPress/wp-phpstan](https://github.com/WordPress/agent-skills/tree/trunk/skills/wp-phpstan)** - PHPStan static analysis for WordPress projects
+- **[WordPress/wp-playground](https://github.com/WordPress/agent-skills/tree/trunk/skills/wp-playground)** - WordPress Playground for instant local environments
+- **[WordPress/wpds](https://github.com/WordPress/agent-skills/tree/trunk/skills/wpds)** - WordPress Design System
+
 ## Community Skills
 
 ### Marketing
@@ -303,6 +309,7 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 - **[lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill)** - Browser automation with Playwright
 - **[ibelick/ui-skills](https://github.com/ibelick/ui-skills)** - Opinionated, evolving constraints to guide agents when building interfaces
 - **[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** - UI/UX design patterns and best practices
+- **[ehmo/platform-design-skills](https://github.com/ehmo/platform-design-skills)** - 300+ design rules from Apple HIG, Material Design 3, and WCAG 2.2 for cross-platform apps
 - **[scarletkc/vexor](https://github.com/scarletkc/vexor)** - Vector-powered CLI for semantic file search with a Claude/Codex skill
 - **[obra/test-driven-development](https://github.com/obra/superpowers/blob/main/skills/test-driven-development/SKILL.md)** - Write tests before implementing code
 - **[ComposioHQ/changelog-generator](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/changelog-generator)** - Transform git commits into release notes
@@ -327,6 +334,7 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 - **[callstackincubator/react-native-best-practices](https://github.com/callstackincubator/agent-skills/blob/main/skills/react-native-best-practices/SKILL.md)** - Performance optimization for React Native apps from Callstack
 - **[AvdLee/swiftui-expert-skill](https://github.com/AvdLee/SwiftUI-Agent-Skill/tree/main/swiftui-expert-skill)** - Modern SwiftUI best practices and iOS 26+ Liquid Glass adoption
 - **[efremidze/swift-patterns-skill](https://github.com/efremidze/swift-patterns-skill/tree/main/swift-patterns)** - Modern Swift/SwiftUI best practices
+- **[Joannis/claude-skills](https://github.com/Joannis/claude-skills)** - Swift Server development guidance with linting tool for best practices
 - **[CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills)** - Three.js skills for creating 3D elements and interactive experiences
 
 ### Context Engineering
@@ -349,8 +357,8 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 - **[SHADOWPR0/security-bluebook-builder](https://github.com/SHADOWPR0/security-bluebook-builder)** - Build security Blue Books for sensitive apps
 - **[obra/defense-in-depth](https://github.com/obra/superpowers/blob/main/skills/defense-in-depth/SKILL.md)** - Multi-layered security approaches
 - **[huifer/Claude-Ally-Health](https://github.com/huifer/Claude-Ally-Health)** - A health assistant skill for medical information analysis, symptom tracking, and wellness guidance.
-- **[frmoretto/clarity-gate](https://github.com/frmoretto/clarity-gate)** - Pre-ingestion verification for epistemic quality in RAG systems with 9-point verification and Two-Round HITL workflow
-- **[zechenzhangAGI/AI-research-SKILLs](https://github.com/zechenzhangAGI/AI-research-SKILLs)** - Comprehensive library of 77 AI research engineering skills across 20 categories including model architecture, fine-tuning, distributed training, inference, evaluation, and MLOps
+- **[frmoretto/clarity-gate](https://github.com/frmoretto/clarity-gate)** - Epistemic quality verification for RAG systems
+- **[zechenzhangAGI/AI-research-SKILLs](https://github.com/zechenzhangAGI/AI-research-SKILLs)** - 77 AI research skills for model training, inference, and MLOps
 
   
 ### n8n Automation
