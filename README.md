@@ -351,6 +351,7 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 - **[huifer/Claude-Ally-Health](https://github.com/huifer/Claude-Ally-Health)** - A health assistant skill for medical information analysis, symptom tracking, and wellness guidance.
 - **[frmoretto/clarity-gate](https://github.com/frmoretto/clarity-gate)** - Pre-ingestion verification for epistemic quality in RAG systems with 9-point verification and Two-Round HITL workflow
 - **[zechenzhangAGI/AI-research-SKILLs](https://github.com/zechenzhangAGI/AI-research-SKILLs)** - Comprehensive library of 77 AI research engineering skills across 20 categories including model architecture, fine-tuning, distributed training, inference, evaluation, and MLOps
+- **[RioBot-Grind/agentfund-skill](https://github.com/RioBot-Grind/agentfund-skill)** - Crowdfunding for AI agents on Base chain - create fundraising proposals, track projects, request milestone payments via escrow
 
   
 ### n8n Automation
