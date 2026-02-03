@@ -21,7 +21,7 @@
   <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
 </a> 
 
-![Skills Count](https://img.shields.io/badge/Skills-195+-blue?style=flat-square)
+![Skills Count](https://img.shields.io/badge/Skills-198+-blue?style=flat-square)
 ![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-agent-skills?label=Last%20update&style=flat-square)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 [![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-agent-skills?style=social)](https://github.com/VoltAgent/awesome-agent-skills/network/members)
@@ -55,6 +55,7 @@ The most contributed Agent Skills repository, built and maintained together with
 - [Skills by Neon Team](#skills-by-neon-team)
 - [Skill by Cloudflare Engineer](#skill-by-cloudflare-engineer)
 - [Skills by fal.ai Team](#skills-by-falai-team)
+- [Skills by HashiCorp Team for Terraform](#skills-by-hashicorp-team-for-terraform)
 - [Skills by Sanity Team](#skills-by-sanity-team)
 - [Skills by Remotion Team](#skills-by-remotion-team)
 - [Skills by WordPress Development Team](#skills-by-wordpress-development-team)
@@ -237,6 +238,12 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 - **[fal-ai-community/fal-platform](https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-platform/SKILL.md)** - Platform APIs for model management, pricing, and usage tracking
 - **[fal-ai-community/fal-upscale](https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-upscale/SKILL.md)** - Upscale and enhance image and video resolution using AI
 - **[fal-ai-community/fal-workflow](https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-workflow/SKILL.md)** - Generate workflow JSON files for chaining AI models
+
+## Skills by HashiCorp Team for Terraform
+
+- **[hashicorp/terraform-code-generation](https://github.com/hashicorp/agent-skills/tree/main/terraform/code-generation)** - Generate and validate Terraform HCL code
+- **[hashicorp/terraform-module-generation](https://github.com/hashicorp/agent-skills/tree/main/terraform/module-generation)** - Create and refactor Terraform modules
+- **[hashicorp/terraform-provider-development](https://github.com/hashicorp/agent-skills/tree/main/terraform/provider-development)** - Develop Terraform providers
 
 ## Skills by Sanity Team
 
