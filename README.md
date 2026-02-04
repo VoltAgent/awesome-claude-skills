@@ -21,7 +21,7 @@
   <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
 </a> 
 
-![Skills Count](https://img.shields.io/badge/Skills-198+-blue?style=flat-square)
+![Skills Count](https://img.shields.io/badge/Skills-202+-blue?style=flat-square)
 ![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-agent-skills?label=Last%20update&style=flat-square)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 [![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-agent-skills?style=social)](https://github.com/VoltAgent/awesome-agent-skills/network/members)
@@ -149,7 +149,11 @@ The most contributed Agent Skills repository, built and maintained together with
 Agent Skills for the Stitch MCP server, compatible with Claude Code, Gemini CLI, Cursor, and more.
 
 - **[google-labs-code/design-md](https://github.com/google-labs-code/stitch-skills/tree/main/skills/design-md)** - Create and manage DESIGN.md files
+- **[google-labs-code/enhance-prompt](https://github.com/google-labs-code/stitch-skills/tree/main/skills/enhance-prompt)** - Improve prompts with design specs and UI/UX vocabulary
 - **[google-labs-code/react-components](https://github.com/google-labs-code/stitch-skills/tree/main/skills/react-components)** - Stitch to React components conversion
+- **[google-labs-code/remotion](https://github.com/google-labs-code/stitch-skills/tree/main/skills/remotion)** - Generate walkthrough videos from Stitch app designs
+- **[google-labs-code/shadcn-ui](https://github.com/google-labs-code/stitch-skills/tree/main/skills/shadcn-ui)** - Build UI components with shadcn/ui
+- **[google-labs-code/stitch-loop](https://github.com/google-labs-code/stitch-skills/tree/main/skills/stitch-loop)** - Iterative design-to-code feedback loop
 
 ## Skills by Hugging Face Team
 
