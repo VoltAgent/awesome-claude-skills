@@ -347,6 +347,7 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 - **[efremidze/swift-patterns-skill](https://github.com/efremidze/swift-patterns-skill/tree/main/swift-patterns)** - Modern Swift/SwiftUI best practices
 - **[Joannis/claude-skills](https://github.com/Joannis/claude-skills)** - Swift Server development guidance with linting tool for best practices
 - **[CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills)** - Three.js skills for creating 3D elements and interactive experiences
+- **[sinewaveai/agent-security-scanner-mcp](https://github.com/sinewaveai/agent-security-layer-fork)** - MCP security scanner for code vulnerabilities
 
 ### Context Engineering
 
