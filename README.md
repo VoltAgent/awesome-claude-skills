@@ -372,6 +372,10 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 - **[zechenzhangAGI/AI-research-SKILLs](https://github.com/zechenzhangAGI/AI-research-SKILLs)** - 77 AI research skills for model training, inference, and MLOps
 
   
+### SaaS App Automation
+
+- **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** - 78 automation skills for SaaS apps via [Rube MCP](https://rube.app/mcp) (Composio). Each skill covers workflow patterns, tool sequences, pitfalls, and parameter guidance for a specific app. Categories include CRM (Salesforce, HubSpot, Pipedrive, Zoho CRM, Close), Project Management (Jira, Asana, Trello, ClickUp, Monday, Linear, Wrike, Basecamp, Coda), Communication (Slack, Discord, Microsoft Teams, Telegram, WhatsApp), Email (Gmail, Outlook, SendGrid, Mailchimp, Postmark, Brevo, ConvertKit, ActiveCampaign, Klaviyo), Code & DevOps (GitHub, GitLab, Bitbucket, Vercel, Render, Sentry, Datadog, PagerDuty, CircleCI, PostHog), Storage & Docs (Google Drive, Dropbox, Box, OneDrive, Notion, Confluence, Airtable), Spreadsheets (Google Sheets), Calendar (Google Calendar, Outlook Calendar, Calendly, Cal.com), Social Media (LinkedIn, Twitter, Reddit, Instagram, TikTok, YouTube), Support (Zendesk, Freshdesk, Freshservice, HelpDesk, Intercom), E-commerce & Payments (Shopify, Stripe, Square), Design (Figma, Canva, Miro), Analytics (Google Analytics, Mixpanel, Amplitude, Segment), HR (BambooHR), and more. Install all with `npx skills add ComposioHQ/awesome-claude-skills --all`.
+
 ### n8n Automation
 
 - **[czlonkowski/n8n-code-javascript](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-code-javascript)** - JavaScript in n8n Code nodes with data access patterns
