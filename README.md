@@ -78,7 +78,7 @@ The most contributed Agent Skills repository, built and maintained together with
 <br/>
 
 <a href="https://github.com/VoltAgent/voltagent">
-<img width="1390" height="296" alt="social" src="https://github.com/user-attachments/assets/4c40affa-8e20-443a-9ec5-1abb6679b170" />
+<img width="1390" height="296" alt="social" src="https://github.com/user-attachments/assets/5d8822c0-e97b-4183-a71e-a922ab88e1a0" />
 </a>
 
 <br/>
