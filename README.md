@@ -226,6 +226,10 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 
 - **[tinybirdco/tinybird-best-practices](https://github.com/tinybirdco/tinybird-agent-skills/tree/main/skills/tinybird-best-practices)** - Tinybird project guidelines for datasources, pipes, endpoints, and SQL
 
+## Skills by Microsoft
+
+- **[microsoft/skills](https://github.com/microsoft/skills)** - Skills, custom agents, AGENTS.md templates, and MCP configurations for AI coding agents working with Azure SDKs and Microsoft AI Foundry.
+
 ## Skills by Neon Team
 
 - **[neondatabase/using-neon](https://github.com/neondatabase/agent-skills/tree/main/skills/neon-postgres)** - Best practices for Neon Serverless Postgres
