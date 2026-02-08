@@ -126,13 +126,13 @@ The most contributed Agent Skills repository, built and maintained together with
 <details open>
 <summary><h3 style="display:inline">Skills by Cloudflare Team</h3></summary>
 
-- **[cloudflare/agents-sdk](https://github.com/cloudflare/skills/tree/main/agents-sdk)** - Build stateful AI agents with scheduling, RPC, and MCP servers
-- **[cloudflare/building-ai-agent-on-cloudflare](https://github.com/cloudflare/skills/tree/main/building-ai-agent-on-cloudflare)** - Build AI agents with state and WebSockets on Cloudflare
-- **[cloudflare/building-mcp-server-on-cloudflare](https://github.com/cloudflare/skills/tree/main/building-mcp-server-on-cloudflare)** - Build remote MCP servers with tools and OAuth
+- **[cloudflare/agents-sdk](https://github.com/cloudflare/skills/tree/main/skills/agents-sdk)** - Build stateful AI agents with scheduling, RPC, and MCP servers
+- **[cloudflare/building-ai-agent-on-cloudflare](https://github.com/cloudflare/skills/tree/main/skills/building-ai-agent-on-cloudflare)** - Build AI agents with state and WebSockets on Cloudflare
+- **[cloudflare/building-mcp-server-on-cloudflare](https://github.com/cloudflare/skills/tree/main/skills/building-mcp-server-on-cloudflare)** - Build remote MCP servers with tools and OAuth
 - **[cloudflare/commands](https://github.com/cloudflare/skills/tree/main/commands)** - Cloudflare CLI commands reference
-- **[cloudflare/durable-objects](https://github.com/cloudflare/skills/tree/main/durable-objects)** - Stateful coordination with RPC, SQLite, and WebSockets
-- **[cloudflare/web-perf](https://github.com/cloudflare/skills/tree/main/web-perf)** - Audit Core Web Vitals and render-blocking resources
-- **[cloudflare/wrangler](https://github.com/cloudflare/skills/tree/main/wrangler)** - Deploy and manage Workers, KV, R2, D1, Vectorize, Queues, Workflows
+- **[cloudflare/durable-objects](https://github.com/cloudflare/skills/tree/main/skills/durable-objects)** - Stateful coordination with RPC, SQLite, and WebSockets
+- **[cloudflare/web-perf](https://github.com/cloudflare/skills/tree/main/skills/web-perf)** - Audit Core Web Vitals and render-blocking resources
+- **[cloudflare/wrangler](https://github.com/cloudflare/skills/tree/main/skills/wrangler)** - Deploy and manage Workers, KV, R2, D1, Vectorize, Queues, Workflows
 
 </details>
 
@@ -416,7 +416,7 @@ Domain-specific knowledge for Azure SDK and Foundry development.
 <details>
 <summary><h3 style="display:inline">Skill by Cloudflare Engineer</h3></summary>
 
-- **[dmmulroy/cloudflare-skill](https://github.com/dmmulroy/cloudflare-skill/tree/main/skill/cloudflare)** - Cloudflare platform reference for Workers, Pages, storage, AI, and networking
+- **[dmmulroy/cloudflare-skill](https://github.com/dmmulroy/cloudflare-skill/tree/main/skills/cloudflare)** - Cloudflare platform reference for Workers, Pages, storage, AI, and networking
 
 </details>
 
