@@ -288,6 +288,8 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 - **[ComposioHQ/content-research-writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer)** - Enhance writing with research
 - **[ComposioHQ/competitive-ads-extractor](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/competitive-ads-extractor)** - Analyze competitor advertising
 - **[wshuyi/x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill)** - Publish articles to X/Twitter
+- **[Ask-Ditto/ditto-product-research-skill](https://github.com/Ask-Ditto/ditto-product-research-skill)** - Run synthetic customer research with 300K+ AI personas
+- **[Ask-Ditto/ditto-product-marketing](https://github.com/Ask-Ditto/ditto-product-marketing)** - PMM research: positioning, messaging, competitive, pricing
 
 ### Productivity and Collaboration
 
