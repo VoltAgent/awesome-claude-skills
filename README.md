@@ -254,7 +254,7 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 
 Domain-specific knowledge for Azure SDK and Foundry development.
 
-**[.NET](https://github.com/microsoft/skills/tree/main/skills/dotnet)**
+### .NET Skills
 
 - **[microsoft/azure-ai-agents-persistent-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-agents-persistent-dotnet)** - Persistent AI agents with threads and tools
 - **[microsoft/azure-ai-document-intelligence-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-document-intelligence-dotnet)** - Document text, table, and data extraction
@@ -286,7 +286,7 @@ Domain-specific knowledge for Azure SDK and Foundry development.
 - **[microsoft/m365-agents-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/m365-agents-dotnet)** - M365, Teams, and Copilot Studio agents
 - **[microsoft/microsoft-azure-webjobs-extensions-authentication-events-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/microsoft-azure-webjobs-extensions-authentication-events-dotnet)** - Entra ID custom auth events handler
 
-**[Java](https://github.com/microsoft/skills/tree/main/skills/java)**
+### Java Skills
 
 - **[microsoft/azure-ai-agents-persistent-java](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-agents-persistent-java)** - Persistent AI agents with threads and tools
 - **[microsoft/azure-ai-anomalydetector-java](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-anomalydetector-java)** - Anomaly detection applications
@@ -315,7 +315,7 @@ Domain-specific knowledge for Azure SDK and Foundry development.
 - **[microsoft/azure-security-keyvault-secrets-java](https://github.com/microsoft/skills/tree/main/.github/skills/azure-security-keyvault-secrets-java)** - Secret management for passwords and keys
 - **[microsoft/azure-storage-blob-java](https://github.com/microsoft/skills/tree/main/.github/skills/azure-storage-blob-java)** - Blob storage for file management
 
-**[Python](https://github.com/microsoft/skills/tree/main/skills/python)**
+### Python Skills
 
 - **[microsoft/agent-framework-azure-ai-py](https://github.com/microsoft/skills/tree/main/.github/skills/agent-framework-azure-ai-py)** - Agent Framework for Azure AI Foundry
 - **[microsoft/agents-v2-py](https://github.com/microsoft/skills/tree/main/.github/skills/agents-v2-py)** - Container-based hosted agents
@@ -359,7 +359,7 @@ Domain-specific knowledge for Azure SDK and Foundry development.
 - **[microsoft/m365-agents-py](https://github.com/microsoft/skills/tree/main/.github/skills/m365-agents-py)** - M365, Teams, and Copilot Studio agents
 - **[microsoft/pydantic-models-py](https://github.com/microsoft/skills/tree/main/.github/skills/pydantic-models-py)** - Pydantic models for API schemas
 
-**[Rust](https://github.com/microsoft/skills/tree/main/skills/rust)**
+### Rust Skills
 
 - **[microsoft/azure-cosmos-rust](https://github.com/microsoft/skills/tree/main/.github/skills/azure-cosmos-rust)** - Cosmos DB NoSQL client
 - **[microsoft/azure-eventhub-rust](https://github.com/microsoft/skills/tree/main/.github/skills/azure-eventhub-rust)** - Event Hubs streaming client
@@ -369,7 +369,7 @@ Domain-specific knowledge for Azure SDK and Foundry development.
 - **[microsoft/azure-keyvault-secrets-rust](https://github.com/microsoft/skills/tree/main/.github/skills/azure-keyvault-secrets-rust)** - Key Vault secret storage
 - **[microsoft/azure-storage-blob-rust](https://github.com/microsoft/skills/tree/main/.github/skills/azure-storage-blob-rust)** - Blob object storage client
 
-**[TypeScript](https://github.com/microsoft/skills/tree/main/skills/typescript)**
+### TypeScript Skills
 
 - **[microsoft/azure-ai-contentsafety-ts](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-contentsafety-ts)** - Content safety for text and images
 - **[microsoft/azure-ai-document-intelligence-ts](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-document-intelligence-ts)** - Document text and table extraction
@@ -396,7 +396,7 @@ Domain-specific knowledge for Azure SDK and Foundry development.
 - **[microsoft/react-flow-node-ts](https://github.com/microsoft/skills/tree/main/.github/skills/react-flow-node-ts)** - React Flow node components with Zustand
 - **[microsoft/zustand-store-ts](https://github.com/microsoft/skills/tree/main/.github/skills/zustand-store-ts)** - Zustand stores with middleware patterns
 
-**General**
+### General Skills
 
 - **[microsoft/azd-deployment](https://github.com/microsoft/skills/tree/main/.github/skills/azd-deployment)** - Azure Container Apps deployment with azd
 - **[microsoft/github-issue-creator](https://github.com/microsoft/skills/tree/main/.github/skills/github-issue-creator)** - Structured GitHub issue reports from notes
