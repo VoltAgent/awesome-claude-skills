@@ -21,7 +21,7 @@
   <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
 </a>
 
-![Skills Count](https://img.shields.io/badge/Skills-202+-blue?style=flat-square)
+![Skills Count](https://img.shields.io/badge/Skills-339+-blue?style=flat-square)
 ![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-agent-skills?label=Last%20update&style=flat-square)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 [![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-agent-skills?style=social)](https://github.com/VoltAgent/awesome-agent-skills/network/members)
@@ -254,8 +254,7 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 
 Skills, custom agents, AGENTS.md templates, and MCP configurations for AI coding agents working with Azure SDKs and Microsoft AI Foundry. You can see the references at [microsoft/skills](https://github.com/microsoft/skills/tree/main/skills), and for the skill files themselves check [.github/skills](https://github.com/microsoft/skills/tree/main/.github/skills).
 
-<details>
-<summary><h3 style="display:inline">.NET</h3></summary>
+**[.NET](https://github.com/microsoft/skills/tree/main/skills/dotnet)**
 
 - **[microsoft/azure-ai-agents-persistent-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-agents-persistent-dotnet)** - Persistent AI agents with threads and tools
 - **[microsoft/azure-ai-document-intelligence-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-document-intelligence-dotnet)** - Document text, table, and data extraction
@@ -287,10 +286,7 @@ Skills, custom agents, AGENTS.md templates, and MCP configurations for AI coding
 - **[microsoft/m365-agents-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/m365-agents-dotnet)** - M365, Teams, and Copilot Studio agents
 - **[microsoft/microsoft-azure-webjobs-extensions-authentication-events-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/microsoft-azure-webjobs-extensions-authentication-events-dotnet)** - Entra ID custom auth events handler
 
-</details>
-
-<details>
-<summary><h3 style="display:inline">Java</h3></summary>
+**[Java](https://github.com/microsoft/skills/tree/main/skills/java)**
 
 - **[microsoft/azure-ai-agents-persistent-java](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-agents-persistent-java)** - Persistent AI agents with threads and tools
 - **[microsoft/azure-ai-anomalydetector-java](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-anomalydetector-java)** - Anomaly detection applications
@@ -319,10 +315,7 @@ Skills, custom agents, AGENTS.md templates, and MCP configurations for AI coding
 - **[microsoft/azure-security-keyvault-secrets-java](https://github.com/microsoft/skills/tree/main/.github/skills/azure-security-keyvault-secrets-java)** - Secret management for passwords and keys
 - **[microsoft/azure-storage-blob-java](https://github.com/microsoft/skills/tree/main/.github/skills/azure-storage-blob-java)** - Blob storage for file management
 
-</details>
-
-<details>
-<summary><h3 style="display:inline">Python</h3></summary>
+**[Python](https://github.com/microsoft/skills/tree/main/skills/python)**
 
 - **[microsoft/agent-framework-azure-ai-py](https://github.com/microsoft/skills/tree/main/.github/skills/agent-framework-azure-ai-py)** - Agent Framework for Azure AI Foundry
 - **[microsoft/agents-v2-py](https://github.com/microsoft/skills/tree/main/.github/skills/agents-v2-py)** - Container-based hosted agents
@@ -366,10 +359,7 @@ Skills, custom agents, AGENTS.md templates, and MCP configurations for AI coding
 - **[microsoft/m365-agents-py](https://github.com/microsoft/skills/tree/main/.github/skills/m365-agents-py)** - M365, Teams, and Copilot Studio agents
 - **[microsoft/pydantic-models-py](https://github.com/microsoft/skills/tree/main/.github/skills/pydantic-models-py)** - Pydantic models for API schemas
 
-</details>
-
-<details>
-<summary><h3 style="display:inline">Rust</h3></summary>
+**[Rust](https://github.com/microsoft/skills/tree/main/skills/rust)**
 
 - **[microsoft/azure-cosmos-rust](https://github.com/microsoft/skills/tree/main/.github/skills/azure-cosmos-rust)** - Cosmos DB NoSQL client
 - **[microsoft/azure-eventhub-rust](https://github.com/microsoft/skills/tree/main/.github/skills/azure-eventhub-rust)** - Event Hubs streaming client
@@ -379,10 +369,7 @@ Skills, custom agents, AGENTS.md templates, and MCP configurations for AI coding
 - **[microsoft/azure-keyvault-secrets-rust](https://github.com/microsoft/skills/tree/main/.github/skills/azure-keyvault-secrets-rust)** - Key Vault secret storage
 - **[microsoft/azure-storage-blob-rust](https://github.com/microsoft/skills/tree/main/.github/skills/azure-storage-blob-rust)** - Blob object storage client
 
-</details>
-
-<details>
-<summary><h3 style="display:inline">TypeScript</h3></summary>
+**[TypeScript](https://github.com/microsoft/skills/tree/main/skills/typescript)**
 
 - **[microsoft/azure-ai-contentsafety-ts](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-contentsafety-ts)** - Content safety for text and images
 - **[microsoft/azure-ai-document-intelligence-ts](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-document-intelligence-ts)** - Document text and table extraction
@@ -409,18 +396,13 @@ Skills, custom agents, AGENTS.md templates, and MCP configurations for AI coding
 - **[microsoft/react-flow-node-ts](https://github.com/microsoft/skills/tree/main/.github/skills/react-flow-node-ts)** - React Flow node components with Zustand
 - **[microsoft/zustand-store-ts](https://github.com/microsoft/skills/tree/main/.github/skills/zustand-store-ts)** - Zustand stores with middleware patterns
 
-</details>
-
-<details>
-<summary><h3 style="display:inline">General</h3></summary>
+**General**
 
 - **[microsoft/azd-deployment](https://github.com/microsoft/skills/tree/main/.github/skills/azd-deployment)** - Azure Container Apps deployment with azd
 - **[microsoft/github-issue-creator](https://github.com/microsoft/skills/tree/main/.github/skills/github-issue-creator)** - Structured GitHub issue reports from notes
 - **[microsoft/mcp-builder](https://github.com/microsoft/skills/tree/main/.github/skills/mcp-builder)** - MCP server creation guide
 - **[microsoft/podcast-generation](https://github.com/microsoft/skills/tree/main/.github/skills/podcast-generation)** - AI podcast audio with GPT Realtime Mini
 - **[microsoft/skill-creator](https://github.com/microsoft/skills/tree/main/.github/skills/skill-creator)** - Skill creation guide for Azure AI agents
-
-</details>
 
 </details>
 
