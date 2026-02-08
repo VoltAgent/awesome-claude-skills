@@ -252,7 +252,7 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 <details>
 <summary><h3 style="display:inline">Skills by Microsoft</h3></summary>
 
-Skills, custom agents, AGENTS.md templates, and MCP configurations for AI coding agents working with Azure SDKs and Microsoft AI Foundry. You can see the references at [microsoft/skills](https://github.com/microsoft/skills/tree/main/skills), and for the skill files themselves check [.github/skills](https://github.com/microsoft/skills/tree/main/.github/skills).
+Domain-specific knowledge for Azure SDK and Foundry development.
 
 **[.NET](https://github.com/microsoft/skills/tree/main/skills/dotnet)**
 
