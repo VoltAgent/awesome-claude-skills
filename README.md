@@ -1,5 +1,5 @@
 <a href="https://github.com/VoltAgent/voltagent">
-<img width="1500" height="801" alt="claude-skills" src="https://github.com/user-attachments/assets/3a9d4cb3-04bd-4fb1-9146-fd3b53d26961" />
+     <img width="1500" height="801" alt="claude-skills" src="https://github.com/user-attachments/assets/3a9d4cb3-04bd-4fb1-9146-fd3b53d26961" />
 </a>
 
 
@@ -19,9 +19,9 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <a href="https://github.com/VoltAgent/voltagent">
   <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
-</a> 
+</a>
 
-![Skills Count](https://img.shields.io/badge/Skills-202+-blue?style=flat-square)
+![Skills Count](https://img.shields.io/badge/Skills-339+-blue?style=flat-square)
 ![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-agent-skills?label=Last%20update&style=flat-square)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 [![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-agent-skills?style=social)](https://github.com/VoltAgent/awesome-agent-skills/network/members)
@@ -52,6 +52,7 @@ The most contributed Agent Skills repository, built and maintained together with
 - [Skills by Sentry Team](#skills-by-sentry-team-for-their-dev-team)
 - [Skills by Better Auth Team](#skills-by-better-auth-team)
 - [Skills by Tinybird Team](#skills-by-tinybird-team)
+- [Skills by Microsoft](#skills-by-microsoft)
 - [Skills by Neon Team](#skills-by-neon-team)
 - [Skill by Cloudflare Engineer](#skill-by-cloudflare-engineer)
 - [Skills by fal.ai Team](#skills-by-falai-team)
@@ -85,41 +86,31 @@ The most contributed Agent Skills repository, built and maintained together with
 
 
 
-## Official Claude Skills
-
-### Document Creation
+<details open>
+<summary><h3 style="display:inline">Official Claude Skills</h3></summary>
 
 - **[anthropics/docx](https://github.com/anthropics/skills/tree/main/skills/docx)** - Create, edit, and analyze Word documents
 - **[anthropics/doc-coauthoring](https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring)** - Collaborative document editing and co-authoring
 - **[anthropics/pptx](https://github.com/anthropics/skills/tree/main/skills/pptx)** - Create, edit, and analyze PowerPoint presentations
 - **[anthropics/xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx)** - Create, edit, and analyze Excel spreadsheets
 - **[anthropics/pdf](https://github.com/anthropics/skills/tree/main/skills/pdf)** - Extract text, create PDFs, and handle forms
-
-### Creative and Design
-
 - **[anthropics/algorithmic-art](https://github.com/anthropics/skills/tree/main/skills/algorithmic-art)** - Create generative art using p5.js with seeded randomness
 - **[anthropics/canvas-design](https://github.com/anthropics/skills/tree/main/skills/canvas-design)** - Design visual art in PNG and PDF formats
 - **[anthropics/frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design)** - Frontend design and UI/UX development tools
 - **[anthropics/slack-gif-creator](https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator)** - Create animated GIFs optimized for Slack size constraints
 - **[anthropics/theme-factory](https://github.com/anthropics/skills/tree/main/skills/theme-factory)** - Style artifacts with professional themes or generate custom themes
-
-### Development
-
 - **[anthropics/web-artifacts-builder](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder)** - Build complex claude.ai HTML artifacts with React and Tailwind
 - **[anthropics/mcp-builder](https://github.com/anthropics/skills/tree/main/skills/mcp-builder)** - Create MCP servers to integrate external APIs and services
 - **[anthropics/webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing)** - Test local web applications using Playwright
-
-### Branding and Communication
-
 - **[anthropics/brand-guidelines](https://github.com/anthropics/skills/tree/main/skills/brand-guidelines)** - Apply Anthropic's brand colors and typography to artifacts
 - **[anthropics/internal-comms](https://github.com/anthropics/skills/tree/main/skills/internal-comms)** - Write status reports, newsletters, and FAQs
-
-### Meta
-
 - **[anthropics/skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator)** - Guide for creating skills that extend Claude's capabilities
 - **[anthropics/template](https://github.com/anthropics/skills/tree/main/template)** - Basic template for creating new skills
 
-## Skills by Vercel Engineering Team
+</details>
+
+<details open>
+<summary><h3 style="display:inline">Skills by Vercel Engineering Team</h3></summary>
 
 - **[vercel-labs/react-best-practices](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-best-practices)** - React best practices and patterns
 - **[vercel-labs/vercel-deploy-claimable](https://github.com/vercel-labs/agent-skills/tree/main/skills/claude.ai/vercel-deploy-claimable)** - Deploy projects to Vercel
@@ -130,7 +121,10 @@ The most contributed Agent Skills repository, built and maintained together with
 - **[vercel-labs/next-upgrade](https://github.com/vercel-labs/next-skills/tree/main/skills/next-upgrade)** - Upgrade Next.js projects to newer versions
 - **[vercel-labs/react-native-skills](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-native-skills)** - React Native best practices and performance guidelines
 
-## Skills by Cloudflare Team
+</details>
+
+<details open>
+<summary><h3 style="display:inline">Skills by Cloudflare Team</h3></summary>
 
 - **[cloudflare/agents-sdk](https://github.com/cloudflare/skills/tree/main/agents-sdk)** - Build stateful AI agents with scheduling, RPC, and MCP servers
 - **[cloudflare/building-ai-agent-on-cloudflare](https://github.com/cloudflare/skills/tree/main/building-ai-agent-on-cloudflare)** - Build AI agents with state and WebSockets on Cloudflare
@@ -140,11 +134,17 @@ The most contributed Agent Skills repository, built and maintained together with
 - **[cloudflare/web-perf](https://github.com/cloudflare/skills/tree/main/web-perf)** - Audit Core Web Vitals and render-blocking resources
 - **[cloudflare/wrangler](https://github.com/cloudflare/skills/tree/main/wrangler)** - Deploy and manage Workers, KV, R2, D1, Vectorize, Queues, Workflows
 
-## Skills by Supabase Team
+</details>
+
+<details>
+<summary><h3 style="display:inline">Skills by Supabase Team</h3></summary>
 
 - **[supabase/postgres-best-practices](https://github.com/supabase/agent-skills/tree/main/skills/supabase-postgres-best-practices)** - PostgreSQL best practices for Supabase
 
-## Skills by Google Labs (Stitch)
+</details>
+
+<details>
+<summary><h3 style="display:inline">Skills by Google Labs (Stitch)</h3></summary>
 
 Agent Skills for the Stitch MCP server, compatible with Claude Code, Gemini CLI, Cursor, and more.
 
@@ -155,7 +155,10 @@ Agent Skills for the Stitch MCP server, compatible with Claude Code, Gemini CLI,
 - **[google-labs-code/shadcn-ui](https://github.com/google-labs-code/stitch-skills/tree/main/skills/shadcn-ui)** - Build UI components with shadcn/ui
 - **[google-labs-code/stitch-loop](https://github.com/google-labs-code/stitch-skills/tree/main/skills/stitch-loop)** - Iterative design-to-code feedback loop
 
-## Skills by Hugging Face Team
+</details>
+
+<details>
+<summary><h3 style="display:inline">Skills by Hugging Face Team</h3></summary>
 
 Official AI agent skills from the Hugging Face team for ML workflows.
 
@@ -168,12 +171,18 @@ Official AI agent skills from the Hugging Face team for ML workflows.
 - **[huggingface/hugging-face-tool-builder](https://github.com/huggingface/skills/tree/main/skills/hugging-face-tool-builder)** - Build reusable scripts for HF API operations
 - **[huggingface/hugging-face-trackio](https://github.com/huggingface/skills/tree/main/skills/hugging-face-trackio)** - Track ML experiments with real-time dashboards
 
-## Skills by Stripe Team
+</details>
+
+<details>
+<summary><h3 style="display:inline">Skills by Stripe Team</h3></summary>
 
 - **[stripe/stripe-best-practices](https://github.com/stripe/ai/tree/main/skills/stripe-best-practices)** - Best practices for building Stripe integrations
 - **[stripe/upgrade-stripe](https://github.com/stripe/ai/tree/main/skills/upgrade-stripe)** - Upgrade Stripe SDK and API versions
 
-## Security Skills by Trail of Bits Team
+</details>
+
+<details>
+<summary><h3 style="display:inline">Security Skills by Trail of Bits Team</h3></summary>
 
 - **[trailofbits/ask-questions-if-underspecified](https://github.com/trailofbits/skills/tree/main/plugins/ask-questions-if-underspecified)** - Prompt for clarification on ambiguous requirements
 - **[trailofbits/audit-context-building](https://github.com/trailofbits/skills/tree/main/plugins/audit-context-building)** - Deep architectural context via ultra-granular code analysis
@@ -198,7 +207,10 @@ Official AI agent skills from the Hugging Face team for ML workflows.
 - **[trailofbits/testing-handbook-skills](https://github.com/trailofbits/skills/tree/main/plugins/testing-handbook-skills)** - Testing Handbook skills: fuzzers, static analysis, sanitizers
 - **[trailofbits/variant-analysis](https://github.com/trailofbits/skills/tree/main/plugins/variant-analysis)** - Find similar vulnerabilities via pattern-based analysis
 
-## Skills by Expo Team
+</details>
+
+<details>
+<summary><h3 style="display:inline">Skills by Expo Team</h3></summary>
 
 Official AI agent skills from the Expo team for building, deploying, and debugging Expo apps.
 
@@ -206,7 +218,10 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 - **[expo/expo-deployment](https://github.com/expo/skills/tree/main/plugins/expo-deployment)** - Deploy Expo apps to production
 - **[expo/upgrading-expo](https://github.com/expo/skills/tree/main/plugins/upgrading-expo)** - Upgrade Expo SDK versions
 
-## Skills by Sentry team for their dev team.
+</details>
+
+<details>
+<summary><h3 style="display:inline">Skills by Sentry team for their dev team.</h3></summary>
 
 - **[getsentry/agents-md](https://github.com/getsentry/skills/tree/main/plugins/sentry-skills/skills/agents-md)** - Generate and manage AGENTS.md files
 - **[getsentry/claude-settings-audit](https://github.com/getsentry/skills/tree/main/plugins/sentry-skills/skills/claude-settings-audit)** - Audit Claude settings configuration
@@ -216,29 +231,197 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 - **[getsentry/find-bugs](https://github.com/getsentry/skills/tree/main/plugins/sentry-skills/skills/find-bugs)** - Find and identify bugs in code
 - **[getsentry/iterate-pr](https://github.com/getsentry/skills/tree/main/plugins/sentry-skills/skills/iterate-pr)** - Iterate on pull request feedback
 
-## Skills by Better Auth Team
+</details>
+
+<details>
+<summary><h3 style="display:inline">Skills by Better Auth Team</h3></summary>
 
 - **[better-auth/best-practices](https://github.com/better-auth/skills/tree/main/better-auth/best-practices)** - Best practices for Better Auth integration
 - **[better-auth/commands](https://github.com/better-auth/skills/tree/main/better-auth/commands)** - Better Auth CLI commands
 - **[better-auth/create-auth](https://github.com/better-auth/skills/tree/main/better-auth/create-auth)** - Create authentication setup with Better Auth
 
-## Skills by Tinybird Team
+</details>
+
+<details>
+<summary><h3 style="display:inline">Skills by Tinybird Team</h3></summary>
 
 - **[tinybirdco/tinybird-best-practices](https://github.com/tinybirdco/tinybird-agent-skills/tree/main/skills/tinybird-best-practices)** - Tinybird project guidelines for datasources, pipes, endpoints, and SQL
 
-## Skills by Microsoft
+</details>
 
-- **[microsoft/skills](https://github.com/microsoft/skills)** - Skills, custom agents, AGENTS.md templates, and MCP configurations for AI coding agents working with Azure SDKs and Microsoft AI Foundry.
+<details>
+<summary><h3 style="display:inline">Skills by Microsoft</h3></summary>
 
-## Skills by Neon Team
+Domain-specific knowledge for Azure SDK and Foundry development.
+
+### .NET Skills
+
+- **[microsoft/azure-ai-agents-persistent-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-agents-persistent-dotnet)** - Persistent AI agents with threads and tools
+- **[microsoft/azure-ai-document-intelligence-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-document-intelligence-dotnet)** - Document text, table, and data extraction
+- **[microsoft/azure-ai-openai-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-openai-dotnet)** - GPT-4, embeddings, DALL-E, and Whisper client
+- **[microsoft/azure-ai-projects-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-projects-dotnet)** - AI Foundry project management SDK
+- **[microsoft/azure-ai-voicelive-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-voicelive-dotnet)** - Real-time bidirectional voice AI
+- **[microsoft/azure-eventgrid-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/azure-eventgrid-dotnet)** - Event Grid topic and domain publishing
+- **[microsoft/azure-eventhub-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/azure-eventhub-dotnet)** - High-throughput event streaming
+- **[microsoft/azure-identity-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/azure-identity-dotnet)** - Microsoft Entra ID authentication
+- **[microsoft/azure-maps-search-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/azure-maps-search-dotnet)** - Geocoding, routing, and weather services
+- **[microsoft/azure-mgmt-apicenter-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/azure-mgmt-apicenter-dotnet)** - API inventory and governance
+- **[microsoft/azure-mgmt-apimanagement-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/azure-mgmt-apimanagement-dotnet)** - API Management provisioning via ARM
+- **[microsoft/azure-mgmt-applicationinsights-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/azure-mgmt-applicationinsights-dotnet)** - Application Insights resource management
+- **[microsoft/azure-mgmt-arizeaiobservabilityeval-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/azure-mgmt-arizeaiobservabilityeval-dotnet)** - Arize AI observability management
+- **[microsoft/azure-mgmt-botservice-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/azure-mgmt-botservice-dotnet)** - Bot Service provisioning via ARM
+- **[microsoft/azure-mgmt-fabric-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/azure-mgmt-fabric-dotnet)** - Microsoft Fabric capacity management
+- **[microsoft/azure-mgmt-mongodbatlas-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/azure-mgmt-mongodbatlas-dotnet)** - MongoDB Atlas as ARM resources
+- **[microsoft/azure-mgmt-weightsandbiases-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/azure-mgmt-weightsandbiases-dotnet)** - Weights & Biases deployment management
+- **[microsoft/azure-resource-manager-cosmosdb-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/azure-resource-manager-cosmosdb-dotnet)** - Cosmos DB resource provisioning
+- **[microsoft/azure-resource-manager-durabletask-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/azure-resource-manager-durabletask-dotnet)** - Durable Task Scheduler management
+- **[microsoft/azure-resource-manager-mysql-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/azure-resource-manager-mysql-dotnet)** - MySQL Flexible Server management
+- **[microsoft/azure-resource-manager-playwright-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/azure-resource-manager-playwright-dotnet)** - Playwright Testing workspace management
+- **[microsoft/azure-resource-manager-postgresql-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/azure-resource-manager-postgresql-dotnet)** - PostgreSQL Flexible Server management
+- **[microsoft/azure-resource-manager-redis-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/azure-resource-manager-redis-dotnet)** - Azure Cache for Redis provisioning
+- **[microsoft/azure-resource-manager-sql-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/azure-resource-manager-sql-dotnet)** - Azure SQL resource management
+- **[microsoft/azure-search-documents-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/azure-search-documents-dotnet)** - Full-text, vector, and hybrid search
+- **[microsoft/azure-security-keyvault-keys-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/azure-security-keyvault-keys-dotnet)** - Cryptographic key management
+- **[microsoft/azure-servicebus-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/azure-servicebus-dotnet)** - Enterprise messaging with queues and topics
+- **[microsoft/m365-agents-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/m365-agents-dotnet)** - M365, Teams, and Copilot Studio agents
+- **[microsoft/microsoft-azure-webjobs-extensions-authentication-events-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/microsoft-azure-webjobs-extensions-authentication-events-dotnet)** - Entra ID custom auth events handler
+
+### Java Skills
+
+- **[microsoft/azure-ai-agents-persistent-java](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-agents-persistent-java)** - Persistent AI agents with threads and tools
+- **[microsoft/azure-ai-anomalydetector-java](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-anomalydetector-java)** - Anomaly detection applications
+- **[microsoft/azure-ai-contentsafety-java](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-contentsafety-java)** - Content moderation and safety
+- **[microsoft/azure-ai-formrecognizer-java](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-formrecognizer-java)** - Document analysis and form extraction
+- **[microsoft/azure-ai-projects-java](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-projects-java)** - AI Foundry project management
+- **[microsoft/azure-ai-vision-imageanalysis-java](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-vision-imageanalysis-java)** - Image captioning, OCR, and object detection
+- **[microsoft/azure-ai-voicelive-java](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-voicelive-java)** - Real-time bidirectional voice AI
+- **[microsoft/azure-appconfiguration-java](https://github.com/microsoft/skills/tree/main/.github/skills/azure-appconfiguration-java)** - Centralized app configuration management
+- **[microsoft/azure-communication-callautomation-java](https://github.com/microsoft/skills/tree/main/.github/skills/azure-communication-callautomation-java)** - Call automation with IVR and AI
+- **[microsoft/azure-communication-callingserver-java](https://github.com/microsoft/skills/tree/main/.github/skills/azure-communication-callingserver-java)** - CallingServer legacy SDK
+- **[microsoft/azure-communication-chat-java](https://github.com/microsoft/skills/tree/main/.github/skills/azure-communication-chat-java)** - Real-time chat with threads and receipts
+- **[microsoft/azure-communication-common-java](https://github.com/microsoft/skills/tree/main/.github/skills/azure-communication-common-java)** - Communication Services common utilities
+- **[microsoft/azure-communication-sms-java](https://github.com/microsoft/skills/tree/main/.github/skills/azure-communication-sms-java)** - SMS sending and delivery reports
+- **[microsoft/azure-compute-batch-java](https://github.com/microsoft/skills/tree/main/.github/skills/azure-compute-batch-java)** - Large-scale parallel and HPC batch jobs
+- **[microsoft/azure-cosmos-java](https://github.com/microsoft/skills/tree/main/.github/skills/azure-cosmos-java)** - Cosmos DB NoSQL with global distribution
+- **[microsoft/azure-data-tables-java](https://github.com/microsoft/skills/tree/main/.github/skills/azure-data-tables-java)** - NoSQL key-value table storage
+- **[microsoft/azure-eventgrid-java](https://github.com/microsoft/skills/tree/main/.github/skills/azure-eventgrid-java)** - Event-driven pub/sub messaging
+- **[microsoft/azure-eventhub-java](https://github.com/microsoft/skills/tree/main/.github/skills/azure-eventhub-java)** - Real-time high-throughput streaming
+- **[microsoft/azure-identity-java](https://github.com/microsoft/skills/tree/main/.github/skills/azure-identity-java)** - Microsoft Entra ID authentication
+- **[microsoft/azure-messaging-webpubsub-java](https://github.com/microsoft/skills/tree/main/.github/skills/azure-messaging-webpubsub-java)** - Real-time WebSocket messaging
+- **[microsoft/azure-monitor-ingestion-java](https://github.com/microsoft/skills/tree/main/.github/skills/azure-monitor-ingestion-java)** - Custom log ingestion to Azure Monitor
+- **[microsoft/azure-monitor-opentelemetry-exporter-java](https://github.com/microsoft/skills/tree/main/.github/skills/azure-monitor-opentelemetry-exporter-java)** - OpenTelemetry export to Azure Monitor
+- **[microsoft/azure-monitor-query-java](https://github.com/microsoft/skills/tree/main/.github/skills/azure-monitor-query-java)** - Query Azure Monitor logs and metrics
+- **[microsoft/azure-security-keyvault-keys-java](https://github.com/microsoft/skills/tree/main/.github/skills/azure-security-keyvault-keys-java)** - Cryptographic key management
+- **[microsoft/azure-security-keyvault-secrets-java](https://github.com/microsoft/skills/tree/main/.github/skills/azure-security-keyvault-secrets-java)** - Secret management for passwords and keys
+- **[microsoft/azure-storage-blob-java](https://github.com/microsoft/skills/tree/main/.github/skills/azure-storage-blob-java)** - Blob storage for file management
+
+### Python Skills
+
+- **[microsoft/agent-framework-azure-ai-py](https://github.com/microsoft/skills/tree/main/.github/skills/agent-framework-azure-ai-py)** - Agent Framework for Azure AI Foundry
+- **[microsoft/agents-v2-py](https://github.com/microsoft/skills/tree/main/.github/skills/agents-v2-py)** - Container-based hosted agents
+- **[microsoft/azure-ai-contentsafety-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-contentsafety-py)** - Harmful content detection
+- **[microsoft/azure-ai-contentunderstanding-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-contentunderstanding-py)** - Multimodal content extraction
+- **[microsoft/azure-ai-ml-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-ml-py)** - Azure ML workspace and job management
+- **[microsoft/azure-ai-projects-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-projects-py)** - AI Foundry project client and agents
+- **[microsoft/azure-ai-textanalytics-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-textanalytics-py)** - NLP: sentiment, entities, key phrases
+- **[microsoft/azure-ai-transcription-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-transcription-py)** - Speech-to-text transcription
+- **[microsoft/azure-ai-translation-document-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-translation-document-py)** - Batch document translation
+- **[microsoft/azure-ai-translation-text-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-translation-text-py)** - Real-time text translation
+- **[microsoft/azure-ai-vision-imageanalysis-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-vision-imageanalysis-py)** - Image captions, tags, OCR, objects
+- **[microsoft/azure-ai-voicelive-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-voicelive-py)** - Real-time bidirectional voice AI
+- **[microsoft/azure-appconfiguration-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-appconfiguration-py)** - Feature flags and dynamic settings
+- **[microsoft/azure-containerregistry-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-containerregistry-py)** - Container image and registry management
+- **[microsoft/azure-cosmos-db-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-cosmos-db-py)** - Cosmos DB with Python/FastAPI patterns
+- **[microsoft/azure-cosmos-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-cosmos-py)** - Cosmos DB NoSQL client library
+- **[microsoft/azure-data-tables-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-data-tables-py)** - NoSQL key-value table storage
+- **[microsoft/azure-eventgrid-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-eventgrid-py)** - Event-driven pub/sub routing
+- **[microsoft/azure-eventhub-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-eventhub-py)** - High-throughput event streaming
+- **[microsoft/azure-identity-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-identity-py)** - Microsoft Entra ID authentication
+- **[microsoft/azure-keyvault-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-keyvault-py)** - Secrets, keys, and certificate management
+- **[microsoft/azure-messaging-webpubsubservice-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-messaging-webpubsubservice-py)** - Real-time WebSocket messaging
+- **[microsoft/azure-mgmt-apicenter-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-mgmt-apicenter-py)** - API inventory and governance
+- **[microsoft/azure-mgmt-apimanagement-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-mgmt-apimanagement-py)** - API Management service administration
+- **[microsoft/azure-mgmt-botservice-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-mgmt-botservice-py)** - Bot Service resource management
+- **[microsoft/azure-mgmt-fabric-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-mgmt-fabric-py)** - Microsoft Fabric capacity management
+- **[microsoft/azure-monitor-ingestion-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-monitor-ingestion-py)** - Custom log ingestion to Azure Monitor
+- **[microsoft/azure-monitor-opentelemetry-exporter-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-monitor-opentelemetry-exporter-py)** - OpenTelemetry export to Application Insights
+- **[microsoft/azure-monitor-opentelemetry-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-monitor-opentelemetry-py)** - One-line Application Insights setup
+- **[microsoft/azure-monitor-query-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-monitor-query-py)** - Query Azure Monitor logs and metrics
+- **[microsoft/azure-search-documents-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-search-documents-py)** - Full-text, vector, and hybrid search
+- **[microsoft/azure-servicebus-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-servicebus-py)** - Enterprise messaging with queues and topics
+- **[microsoft/azure-speech-to-text-rest-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-speech-to-text-rest-py)** - REST speech-to-text for short audio
+- **[microsoft/azure-storage-blob-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-storage-blob-py)** - Blob object storage client
+- **[microsoft/azure-storage-file-datalake-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-storage-file-datalake-py)** - Hierarchical data lake storage
+- **[microsoft/azure-storage-file-share-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-storage-file-share-py)** - SMB file share management
+- **[microsoft/azure-storage-queue-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-storage-queue-py)** - Simple message queuing
+- **[microsoft/fastapi-router-py](https://github.com/microsoft/skills/tree/main/.github/skills/fastapi-router-py)** - FastAPI routers with CRUD and auth
+- **[microsoft/hosted-agents-v2-py](https://github.com/microsoft/skills/tree/main/.github/skills/hosted-agents-v2-py)** - Container-based hosted agents
+- **[microsoft/m365-agents-py](https://github.com/microsoft/skills/tree/main/.github/skills/m365-agents-py)** - M365, Teams, and Copilot Studio agents
+- **[microsoft/pydantic-models-py](https://github.com/microsoft/skills/tree/main/.github/skills/pydantic-models-py)** - Pydantic models for API schemas
+
+### Rust Skills
+
+- **[microsoft/azure-cosmos-rust](https://github.com/microsoft/skills/tree/main/.github/skills/azure-cosmos-rust)** - Cosmos DB NoSQL client
+- **[microsoft/azure-eventhub-rust](https://github.com/microsoft/skills/tree/main/.github/skills/azure-eventhub-rust)** - Event Hubs streaming client
+- **[microsoft/azure-identity-rust](https://github.com/microsoft/skills/tree/main/.github/skills/azure-identity-rust)** - Microsoft Entra ID authentication
+- **[microsoft/azure-keyvault-certificates-rust](https://github.com/microsoft/skills/tree/main/.github/skills/azure-keyvault-certificates-rust)** - Key Vault certificate management
+- **[microsoft/azure-keyvault-keys-rust](https://github.com/microsoft/skills/tree/main/.github/skills/azure-keyvault-keys-rust)** - Key Vault cryptographic key management
+- **[microsoft/azure-keyvault-secrets-rust](https://github.com/microsoft/skills/tree/main/.github/skills/azure-keyvault-secrets-rust)** - Key Vault secret storage
+- **[microsoft/azure-storage-blob-rust](https://github.com/microsoft/skills/tree/main/.github/skills/azure-storage-blob-rust)** - Blob object storage client
+
+### TypeScript Skills
+
+- **[microsoft/azure-ai-contentsafety-ts](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-contentsafety-ts)** - Content safety for text and images
+- **[microsoft/azure-ai-document-intelligence-ts](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-document-intelligence-ts)** - Document text and table extraction
+- **[microsoft/azure-ai-projects-ts](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-projects-ts)** - AI Foundry project client and agents
+- **[microsoft/azure-ai-translation-ts](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-translation-ts)** - Text and document translation
+- **[microsoft/azure-ai-voicelive-ts](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-voicelive-ts)** - Real-time bidirectional voice AI
+- **[microsoft/azure-appconfiguration-ts](https://github.com/microsoft/skills/tree/main/.github/skills/azure-appconfiguration-ts)** - App config, feature flags, dynamic refresh
+- **[microsoft/azure-cosmos-ts](https://github.com/microsoft/skills/tree/main/.github/skills/azure-cosmos-ts)** - Cosmos DB NoSQL CRUD and queries
+- **[microsoft/azure-eventhub-ts](https://github.com/microsoft/skills/tree/main/.github/skills/azure-eventhub-ts)** - High-throughput event streaming
+- **[microsoft/azure-identity-ts](https://github.com/microsoft/skills/tree/main/.github/skills/azure-identity-ts)** - Microsoft Entra ID authentication
+- **[microsoft/azure-keyvault-keys-ts](https://github.com/microsoft/skills/tree/main/.github/skills/azure-keyvault-keys-ts)** - Cryptographic key management
+- **[microsoft/azure-keyvault-secrets-ts](https://github.com/microsoft/skills/tree/main/.github/skills/azure-keyvault-secrets-ts)** - Secret storage and retrieval
+- **[microsoft/azure-microsoft-playwright-testing-ts](https://github.com/microsoft/skills/tree/main/.github/skills/azure-microsoft-playwright-testing-ts)** - Playwright tests at scale on Azure
+- **[microsoft/azure-monitor-opentelemetry-ts](https://github.com/microsoft/skills/tree/main/.github/skills/azure-monitor-opentelemetry-ts)** - Application Insights tracing and metrics
+- **[microsoft/azure-postgres-ts](https://github.com/microsoft/skills/tree/main/.github/skills/azure-postgres-ts)** - PostgreSQL Flexible Server connection
+- **[microsoft/azure-search-documents-ts](https://github.com/microsoft/skills/tree/main/.github/skills/azure-search-documents-ts)** - Vector/hybrid search with semantic ranking
+- **[microsoft/azure-servicebus-ts](https://github.com/microsoft/skills/tree/main/.github/skills/azure-servicebus-ts)** - Messaging with queues and topics
+- **[microsoft/azure-storage-blob-ts](https://github.com/microsoft/skills/tree/main/.github/skills/azure-storage-blob-ts)** - Blob upload, download, and management
+- **[microsoft/azure-storage-file-share-ts](https://github.com/microsoft/skills/tree/main/.github/skills/azure-storage-file-share-ts)** - SMB file share operations
+- **[microsoft/azure-storage-queue-ts](https://github.com/microsoft/skills/tree/main/.github/skills/azure-storage-queue-ts)** - Queue message operations
+- **[microsoft/azure-web-pubsub-ts](https://github.com/microsoft/skills/tree/main/.github/skills/azure-web-pubsub-ts)** - Real-time WebSocket pub/sub messaging
+- **[microsoft/frontend-ui-dark-ts](https://github.com/microsoft/skills/tree/main/.github/skills/frontend-ui-dark-ts)** - Dark-themed React with Tailwind and animations
+- **[microsoft/m365-agents-ts](https://github.com/microsoft/skills/tree/main/.github/skills/m365-agents-ts)** - M365, Teams, and Copilot Studio agents
+- **[microsoft/react-flow-node-ts](https://github.com/microsoft/skills/tree/main/.github/skills/react-flow-node-ts)** - React Flow node components with Zustand
+- **[microsoft/zustand-store-ts](https://github.com/microsoft/skills/tree/main/.github/skills/zustand-store-ts)** - Zustand stores with middleware patterns
+
+### General Skills
+
+- **[microsoft/azd-deployment](https://github.com/microsoft/skills/tree/main/.github/skills/azd-deployment)** - Azure Container Apps deployment with azd
+- **[microsoft/github-issue-creator](https://github.com/microsoft/skills/tree/main/.github/skills/github-issue-creator)** - Structured GitHub issue reports from notes
+- **[microsoft/mcp-builder](https://github.com/microsoft/skills/tree/main/.github/skills/mcp-builder)** - MCP server creation guide
+- **[microsoft/podcast-generation](https://github.com/microsoft/skills/tree/main/.github/skills/podcast-generation)** - AI podcast audio with GPT Realtime Mini
+- **[microsoft/skill-creator](https://github.com/microsoft/skills/tree/main/.github/skills/skill-creator)** - Skill creation guide for Azure AI agents
+
+</details>
+
+<details>
+<summary><h3 style="display:inline">Skills by Neon Team</h3></summary>
 
 - **[neondatabase/using-neon](https://github.com/neondatabase/agent-skills/tree/main/skills/neon-postgres)** - Best practices for Neon Serverless Postgres
 
-## Skill by Cloudflare Engineer
+</details>
+
+<details>
+<summary><h3 style="display:inline">Skill by Cloudflare Engineer</h3></summary>
 
 - **[dmmulroy/cloudflare-skill](https://github.com/dmmulroy/cloudflare-skill/tree/main/skill/cloudflare)** - Cloudflare platform reference for Workers, Pages, storage, AI, and networking
 
-## Skills by fal.ai Team
+</details>
+
+<details>
+<summary><h3 style="display:inline">Skills by fal.ai Team</h3></summary>
 
 - **[fal-ai-community/fal-audio](https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-audio/SKILL.md)** - Text-to-speech and speech-to-text using fal.ai audio models
 - **[fal-ai-community/fal-generate](https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-generate/SKILL.md)** - Generate images and videos using fal.ai AI models
@@ -247,24 +430,36 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 - **[fal-ai-community/fal-upscale](https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-upscale/SKILL.md)** - Upscale and enhance image and video resolution using AI
 - **[fal-ai-community/fal-workflow](https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-workflow/SKILL.md)** - Generate workflow JSON files for chaining AI models
 
-## Skills by HashiCorp Team for Terraform
+</details>
+
+<details>
+<summary><h3 style="display:inline">Skills by HashiCorp Team for Terraform</h3></summary>
 
 - **[hashicorp/terraform-code-generation](https://github.com/hashicorp/agent-skills/tree/main/terraform/code-generation)** - Generate and validate Terraform HCL code
 - **[hashicorp/terraform-module-generation](https://github.com/hashicorp/agent-skills/tree/main/terraform/module-generation)** - Create and refactor Terraform modules
 - **[hashicorp/terraform-provider-development](https://github.com/hashicorp/agent-skills/tree/main/terraform/provider-development)** - Develop Terraform providers
 
-## Skills by Sanity Team
+</details>
+
+<details>
+<summary><h3 style="display:inline">Skills by Sanity Team</h3></summary>
 
 - **[sanity-io/sanity-best-practices](https://github.com/sanity-io/agent-toolkit/tree/main/skills/sanity-best-practices)** - Best practices for Sanity Studio, GROQ queries, and content workflows
 - **[sanity-io/content-modeling-best-practices](https://github.com/sanity-io/agent-toolkit/tree/main/skills/content-modeling-best-practices)** - Guidelines for designing scalable content models in Sanity
 - **[sanity-io/seo-aeo-best-practices](https://github.com/sanity-io/agent-toolkit/tree/main/skills/seo-aeo-best-practices)** - SEO and answer engine optimization patterns for content sites
 - **[sanity-io/content-experimentation-best-practices](https://github.com/sanity-io/agent-toolkit/tree/main/skills/content-experimentation-best-practices)** - Content A/B testing and experimentation workflows
 
-## Skills by Remotion Team
+</details>
+
+<details>
+<summary><h3 style="display:inline">Skills by Remotion Team</h3></summary>
 
 - **[remotion-dev/remotion](https://github.com/remotion-dev/skills/tree/main/skills/remotion)** - Programmatic video creation with React
 
-## Skills by WordPress Development Team
+</details>
+
+<details>
+<summary><h3 style="display:inline">Skills by WordPress Development Team</h3></summary>
 
 - **[WordPress/wordpress-router](https://github.com/WordPress/agent-skills/tree/trunk/skills/wordpress-router)** - Classifies WordPress repos and routes to the right workflow
 - **[WordPress/wp-project-triage](https://github.com/WordPress/agent-skills/tree/trunk/skills/wp-project-triage)** - Detects project type, tooling, and versions automatically
@@ -280,16 +475,23 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 - **[WordPress/wp-playground](https://github.com/WordPress/agent-skills/tree/trunk/skills/wp-playground)** - WordPress Playground for instant local environments
 - **[WordPress/wpds](https://github.com/WordPress/agent-skills/tree/trunk/skills/wpds)** - WordPress Design System
 
-## Community Skills
+</details>
 
-### Marketing
+<details>
+<summary><h3 style="display:inline">Community Skills</h3></summary>
+
+<details>
+<summary><h3 style="display:inline">Marketing</h3></summary>
 
 - **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** - 23+ marketing skills for SEO, copywriting, email, and ads
 - **[ComposioHQ/content-research-writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer)** - Enhance writing with research
 - **[ComposioHQ/competitive-ads-extractor](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/competitive-ads-extractor)** - Analyze competitor advertising
 - **[wshuyi/x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill)** - Publish articles to X/Twitter
 
-### Productivity and Collaboration
+</details>
+
+<details>
+<summary><h3 style="display:inline">Productivity and Collaboration</h3></summary>
 
 - **[PSPDFKit-labs/nutrient-agent-skill](https://github.com/PSPDFKit-labs/nutrient-agent-skill)** - Document processing with Nutrient DWS API: convert (PDF/DOCX/XLSX/PPTX/HTML/images), extract text/tables, OCR (20+ languages), redact PII (pattern + AI), watermark, digital signatures, form filling. [MCP server](https://www.npmjs.com/package/@nutrient-sdk/dws-mcp-server) also available.
 - **[notiondevs/Notion Skills for Claude](https://www.notion.so/notiondevs/Notion-Skills-for-Claude-28da4445d27180c7af1df7d8615723d0)** - Skills for working with Notion
@@ -313,7 +515,10 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 - **[hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill)** - Minimal, low-friction hierarchical memory system with background agents and filesystem-based persistence
 - **[kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg/tree/main/skills/kreuzberg)** - Extract text, tables, and metadata from 62+ document formats
 
-### Development and Testing
+</details>
+
+<details>
+<summary><h3 style="display:inline">Development and Testing</h3></summary>
 
 - **[robzolkos/skill-rails-upgrade](https://github.com/robzolkos/skill-rails-upgrade)** - Analyze Rails apps and provide upgrade assessments
 - **[Shpigford/screenshots](https://github.com/Shpigford/skills/tree/main/screenshots)** - Generate marketing screenshots with Playwright
@@ -355,7 +560,10 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 - **[Joannis/claude-skills](https://github.com/Joannis/claude-skills)** - Swift Server development guidance with linting tool for best practices
 - **[CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills)** - Three.js skills for creating 3D elements and interactive experiences
 
-### Context Engineering
+</details>
+
+<details>
+<summary><h3 style="display:inline">Context Engineering</h3></summary>
 
 - **[muratcankoylan/context-fundamentals](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-fundamentals)** - Understand what context is, why it matters, and the anatomy of context in agent systems
 - **[muratcankoylan/context-degradation](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-degradation)** - Recognize patterns of context failure: lost-in-middle, poisoning, distraction, and clash
@@ -366,7 +574,10 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 - **[muratcankoylan/tool-design](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/tool-design)** - Build tools that agents can use effectively, including architectural reduction patterns
 - **[muratcankoylan/evaluation](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/evaluation)** - Build evaluation frameworks for agent systems
 
-### Specialized Domains
+</details>
+
+<details>
+<summary><h3 style="display:inline">Specialized Domains</h3></summary>
 
 - **[K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills)** - Scientific research and analysis skills
 - **[NotMyself/claude-win11-speckit-update-skill](https://github.com/NotMyself/claude-win11-speckit-update-skill)** - Windows 11 system management
@@ -378,8 +589,10 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 - **[frmoretto/clarity-gate](https://github.com/frmoretto/clarity-gate)** - Epistemic quality verification for RAG systems
 - **[zechenzhangAGI/AI-research-SKILLs](https://github.com/zechenzhangAGI/AI-research-SKILLs)** - 77 AI research skills for model training, inference, and MLOps
 
-  
-### n8n Automation
+</details>
+
+<details>
+<summary><h3 style="display:inline">n8n Automation</h3></summary>
 
 - **[czlonkowski/n8n-code-javascript](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-code-javascript)** - JavaScript in n8n Code nodes with data access patterns
 - **[czlonkowski/n8n-code-python](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-code-python)** - Python coding in n8n Code nodes with limitations
@@ -389,13 +602,20 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 - **[czlonkowski/n8n-validation-expert](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-validation-expert)** - Fix n8n validation errors with error catalog
 - **[czlonkowski/n8n-workflow-patterns](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-workflow-patterns)** - Workflow patterns for webhook, HTTP, database, and AI tasks
 
-### Other
+</details>
+
+<details>
+<summary><h3 style="display:inline">Other</h3></summary>
 
 - **[materials-simulation-skills](https://github.com/HeshamFS/materials-simulation-skills)** - Agent skills for computational materials science: numerical stability, time-stepping, linear solvers, mesh generation, simulation validation, parameter optimization, and post-processing
 - **[wrsmith108/varlock-claude-skill](https://github.com/wrsmith108/varlock-claude-skill)** - Secure environment variable management ensuring secrets are never exposed in Claude sessions, terminals, logs, or git commits
 - **[SHADOWPR0/beautiful_prose](https://github.com/SHADOWPR0/beautiful_prose)** - Hard-edged writing style contract for timeless, forceful English prose without AI tics
 - **[SeanZoR/claude-speed-reader](https://github.com/SeanZoR/claude-speed-reader)** -Speed read Claude's responses at 600+ WPM using RSVP with Spritz-style ORP highlighting
 - **[Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** -Automatically convert documentation websites, GitHub repositories, and PDFs into Claude AI skills in minutes.
+
+</details>
+
+</details>
 
 ## 🤝 Contributing
 
@@ -413,7 +633,6 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 MIT License - see [LICENSE](LICENSE)
 
-This is a curated list. Skills listed here are created and maintained by their respective authors and teams, not by us. We select community-adopted, proven skills and do not audit, endorse, or guarantee the security or correctness of listed projects. They are not security-audited and should be reviewed before production use. 
+This is a curated list. Skills listed here are created and maintained by their respective authors and teams, not by us. We select community-adopted, proven skills and do not audit, endorse, or guarantee the security or correctness of listed projects. They are not security-audited and should be reviewed before production use.
 
 If you find an issue with a listed skill or want your skill removed, please [open an issue](https://github.com/VoltAgent/awesome-agent-skills/issues) and we'll take care of it promptly.
-
