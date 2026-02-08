@@ -86,60 +86,31 @@ The most contributed Agent Skills repository, built and maintained together with
 
 
 
-<details>
-<summary><h2 style="display:inline">Official Claude Skills</h2></summary>
-
-<details>
-<summary><h3 style="display:inline">Document Creation</h3></summary>
+<details open>
+<summary><h3 style="display:inline">Official Claude Skills</h3></summary>
 
 - **[anthropics/docx](https://github.com/anthropics/skills/tree/main/skills/docx)** - Create, edit, and analyze Word documents
 - **[anthropics/doc-coauthoring](https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring)** - Collaborative document editing and co-authoring
 - **[anthropics/pptx](https://github.com/anthropics/skills/tree/main/skills/pptx)** - Create, edit, and analyze PowerPoint presentations
 - **[anthropics/xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx)** - Create, edit, and analyze Excel spreadsheets
 - **[anthropics/pdf](https://github.com/anthropics/skills/tree/main/skills/pdf)** - Extract text, create PDFs, and handle forms
-
-</details>
-
-<details>
-<summary><h3 style="display:inline">Creative and Design</h3></summary>
-
 - **[anthropics/algorithmic-art](https://github.com/anthropics/skills/tree/main/skills/algorithmic-art)** - Create generative art using p5.js with seeded randomness
 - **[anthropics/canvas-design](https://github.com/anthropics/skills/tree/main/skills/canvas-design)** - Design visual art in PNG and PDF formats
 - **[anthropics/frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design)** - Frontend design and UI/UX development tools
 - **[anthropics/slack-gif-creator](https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator)** - Create animated GIFs optimized for Slack size constraints
 - **[anthropics/theme-factory](https://github.com/anthropics/skills/tree/main/skills/theme-factory)** - Style artifacts with professional themes or generate custom themes
-
-</details>
-
-<details>
-<summary><h3 style="display:inline">Development</h3></summary>
-
 - **[anthropics/web-artifacts-builder](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder)** - Build complex claude.ai HTML artifacts with React and Tailwind
 - **[anthropics/mcp-builder](https://github.com/anthropics/skills/tree/main/skills/mcp-builder)** - Create MCP servers to integrate external APIs and services
 - **[anthropics/webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing)** - Test local web applications using Playwright
-
-</details>
-
-<details>
-<summary><h3 style="display:inline">Branding and Communication</h3></summary>
-
 - **[anthropics/brand-guidelines](https://github.com/anthropics/skills/tree/main/skills/brand-guidelines)** - Apply Anthropic's brand colors and typography to artifacts
 - **[anthropics/internal-comms](https://github.com/anthropics/skills/tree/main/skills/internal-comms)** - Write status reports, newsletters, and FAQs
-
-</details>
-
-<details>
-<summary><h3 style="display:inline">Meta</h3></summary>
-
 - **[anthropics/skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator)** - Guide for creating skills that extend Claude's capabilities
 - **[anthropics/template](https://github.com/anthropics/skills/tree/main/template)** - Basic template for creating new skills
 
 </details>
 
-</details>
-
-<details>
-<summary><h2 style="display:inline">Skills by Vercel Engineering Team</h2></summary>
+<details open>
+<summary><h3 style="display:inline">Skills by Vercel Engineering Team</h3></summary>
 
 - **[vercel-labs/react-best-practices](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-best-practices)** - React best practices and patterns
 - **[vercel-labs/vercel-deploy-claimable](https://github.com/vercel-labs/agent-skills/tree/main/skills/claude.ai/vercel-deploy-claimable)** - Deploy projects to Vercel
@@ -152,8 +123,8 @@ The most contributed Agent Skills repository, built and maintained together with
 
 </details>
 
-<details>
-<summary><h2 style="display:inline">Skills by Cloudflare Team</h2></summary>
+<details open>
+<summary><h3 style="display:inline">Skills by Cloudflare Team</h3></summary>
 
 - **[cloudflare/agents-sdk](https://github.com/cloudflare/skills/tree/main/agents-sdk)** - Build stateful AI agents with scheduling, RPC, and MCP servers
 - **[cloudflare/building-ai-agent-on-cloudflare](https://github.com/cloudflare/skills/tree/main/building-ai-agent-on-cloudflare)** - Build AI agents with state and WebSockets on Cloudflare
@@ -166,14 +137,14 @@ The most contributed Agent Skills repository, built and maintained together with
 </details>
 
 <details>
-<summary><h2 style="display:inline">Skills by Supabase Team</h2></summary>
+<summary><h3 style="display:inline">Skills by Supabase Team</h3></summary>
 
 - **[supabase/postgres-best-practices](https://github.com/supabase/agent-skills/tree/main/skills/supabase-postgres-best-practices)** - PostgreSQL best practices for Supabase
 
 </details>
 
 <details>
-<summary><h2 style="display:inline">Skills by Google Labs (Stitch)</h2></summary>
+<summary><h3 style="display:inline">Skills by Google Labs (Stitch)</h3></summary>
 
 Agent Skills for the Stitch MCP server, compatible with Claude Code, Gemini CLI, Cursor, and more.
 
@@ -187,7 +158,7 @@ Agent Skills for the Stitch MCP server, compatible with Claude Code, Gemini CLI,
 </details>
 
 <details>
-<summary><h2 style="display:inline">Skills by Hugging Face Team</h2></summary>
+<summary><h3 style="display:inline">Skills by Hugging Face Team</h3></summary>
 
 Official AI agent skills from the Hugging Face team for ML workflows.
 
@@ -203,7 +174,7 @@ Official AI agent skills from the Hugging Face team for ML workflows.
 </details>
 
 <details>
-<summary><h2 style="display:inline">Skills by Stripe Team</h2></summary>
+<summary><h3 style="display:inline">Skills by Stripe Team</h3></summary>
 
 - **[stripe/stripe-best-practices](https://github.com/stripe/ai/tree/main/skills/stripe-best-practices)** - Best practices for building Stripe integrations
 - **[stripe/upgrade-stripe](https://github.com/stripe/ai/tree/main/skills/upgrade-stripe)** - Upgrade Stripe SDK and API versions
@@ -211,7 +182,7 @@ Official AI agent skills from the Hugging Face team for ML workflows.
 </details>
 
 <details>
-<summary><h2 style="display:inline">Security Skills by Trail of Bits Team</h2></summary>
+<summary><h3 style="display:inline">Security Skills by Trail of Bits Team</h3></summary>
 
 - **[trailofbits/ask-questions-if-underspecified](https://github.com/trailofbits/skills/tree/main/plugins/ask-questions-if-underspecified)** - Prompt for clarification on ambiguous requirements
 - **[trailofbits/audit-context-building](https://github.com/trailofbits/skills/tree/main/plugins/audit-context-building)** - Deep architectural context via ultra-granular code analysis
@@ -239,7 +210,7 @@ Official AI agent skills from the Hugging Face team for ML workflows.
 </details>
 
 <details>
-<summary><h2 style="display:inline">Skills by Expo Team</h2></summary>
+<summary><h3 style="display:inline">Skills by Expo Team</h3></summary>
 
 Official AI agent skills from the Expo team for building, deploying, and debugging Expo apps.
 
@@ -250,7 +221,7 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 </details>
 
 <details>
-<summary><h2 style="display:inline">Skills by Sentry team for their dev team.</h2></summary>
+<summary><h3 style="display:inline">Skills by Sentry team for their dev team.</h3></summary>
 
 - **[getsentry/agents-md](https://github.com/getsentry/skills/tree/main/plugins/sentry-skills/skills/agents-md)** - Generate and manage AGENTS.md files
 - **[getsentry/claude-settings-audit](https://github.com/getsentry/skills/tree/main/plugins/sentry-skills/skills/claude-settings-audit)** - Audit Claude settings configuration
@@ -263,7 +234,7 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 </details>
 
 <details>
-<summary><h2 style="display:inline">Skills by Better Auth Team</h2></summary>
+<summary><h3 style="display:inline">Skills by Better Auth Team</h3></summary>
 
 - **[better-auth/best-practices](https://github.com/better-auth/skills/tree/main/better-auth/best-practices)** - Best practices for Better Auth integration
 - **[better-auth/commands](https://github.com/better-auth/skills/tree/main/better-auth/commands)** - Better Auth CLI commands
@@ -272,14 +243,14 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 </details>
 
 <details>
-<summary><h2 style="display:inline">Skills by Tinybird Team</h2></summary>
+<summary><h3 style="display:inline">Skills by Tinybird Team</h3></summary>
 
 - **[tinybirdco/tinybird-best-practices](https://github.com/tinybirdco/tinybird-agent-skills/tree/main/skills/tinybird-best-practices)** - Tinybird project guidelines for datasources, pipes, endpoints, and SQL
 
 </details>
 
 <details>
-<summary><h2 style="display:inline">Skills by Microsoft</h2></summary>
+<summary><h3 style="display:inline">Skills by Microsoft</h3></summary>
 
 Skills, custom agents, AGENTS.md templates, and MCP configurations for AI coding agents working with Azure SDKs and Microsoft AI Foundry. You can see the references at [microsoft/skills](https://github.com/microsoft/skills/tree/main/skills), and for the skill files themselves check [.github/skills](https://github.com/microsoft/skills/tree/main/.github/skills).
 
@@ -454,21 +425,21 @@ Skills, custom agents, AGENTS.md templates, and MCP configurations for AI coding
 </details>
 
 <details>
-<summary><h2 style="display:inline">Skills by Neon Team</h2></summary>
+<summary><h3 style="display:inline">Skills by Neon Team</h3></summary>
 
 - **[neondatabase/using-neon](https://github.com/neondatabase/agent-skills/tree/main/skills/neon-postgres)** - Best practices for Neon Serverless Postgres
 
 </details>
 
 <details>
-<summary><h2 style="display:inline">Skill by Cloudflare Engineer</h2></summary>
+<summary><h3 style="display:inline">Skill by Cloudflare Engineer</h3></summary>
 
 - **[dmmulroy/cloudflare-skill](https://github.com/dmmulroy/cloudflare-skill/tree/main/skill/cloudflare)** - Cloudflare platform reference for Workers, Pages, storage, AI, and networking
 
 </details>
 
 <details>
-<summary><h2 style="display:inline">Skills by fal.ai Team</h2></summary>
+<summary><h3 style="display:inline">Skills by fal.ai Team</h3></summary>
 
 - **[fal-ai-community/fal-audio](https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-audio/SKILL.md)** - Text-to-speech and speech-to-text using fal.ai audio models
 - **[fal-ai-community/fal-generate](https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-generate/SKILL.md)** - Generate images and videos using fal.ai AI models
@@ -480,7 +451,7 @@ Skills, custom agents, AGENTS.md templates, and MCP configurations for AI coding
 </details>
 
 <details>
-<summary><h2 style="display:inline">Skills by HashiCorp Team for Terraform</h2></summary>
+<summary><h3 style="display:inline">Skills by HashiCorp Team for Terraform</h3></summary>
 
 - **[hashicorp/terraform-code-generation](https://github.com/hashicorp/agent-skills/tree/main/terraform/code-generation)** - Generate and validate Terraform HCL code
 - **[hashicorp/terraform-module-generation](https://github.com/hashicorp/agent-skills/tree/main/terraform/module-generation)** - Create and refactor Terraform modules
@@ -489,7 +460,7 @@ Skills, custom agents, AGENTS.md templates, and MCP configurations for AI coding
 </details>
 
 <details>
-<summary><h2 style="display:inline">Skills by Sanity Team</h2></summary>
+<summary><h3 style="display:inline">Skills by Sanity Team</h3></summary>
 
 - **[sanity-io/sanity-best-practices](https://github.com/sanity-io/agent-toolkit/tree/main/skills/sanity-best-practices)** - Best practices for Sanity Studio, GROQ queries, and content workflows
 - **[sanity-io/content-modeling-best-practices](https://github.com/sanity-io/agent-toolkit/tree/main/skills/content-modeling-best-practices)** - Guidelines for designing scalable content models in Sanity
@@ -499,14 +470,14 @@ Skills, custom agents, AGENTS.md templates, and MCP configurations for AI coding
 </details>
 
 <details>
-<summary><h2 style="display:inline">Skills by Remotion Team</h2></summary>
+<summary><h3 style="display:inline">Skills by Remotion Team</h3></summary>
 
 - **[remotion-dev/remotion](https://github.com/remotion-dev/skills/tree/main/skills/remotion)** - Programmatic video creation with React
 
 </details>
 
 <details>
-<summary><h2 style="display:inline">Skills by WordPress Development Team</h2></summary>
+<summary><h3 style="display:inline">Skills by WordPress Development Team</h3></summary>
 
 - **[WordPress/wordpress-router](https://github.com/WordPress/agent-skills/tree/trunk/skills/wordpress-router)** - Classifies WordPress repos and routes to the right workflow
 - **[WordPress/wp-project-triage](https://github.com/WordPress/agent-skills/tree/trunk/skills/wp-project-triage)** - Detects project type, tooling, and versions automatically
@@ -525,7 +496,7 @@ Skills, custom agents, AGENTS.md templates, and MCP configurations for AI coding
 </details>
 
 <details>
-<summary><h2 style="display:inline">Community Skills</h2></summary>
+<summary><h3 style="display:inline">Community Skills</h3></summary>
 
 <details>
 <summary><h3 style="display:inline">Marketing</h3></summary>
